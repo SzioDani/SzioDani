@@ -106,6 +106,54 @@
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
 "refresh": "https://time4tv.top/stream/stream-877.php",
 "embed": true
+},
+ {
+"name": "Canale 1",
+"info": "Prova",
+"image": "",
+"url" :  "https://swipebreed.net/embed/b8ecnymb7etwdk",
+"referer" : "https://tarjetarojaenvivo.lat/",
+"isHost": "true"
+},
+ {
+"name": "Canale 2",
+"info": "Prova",
+"image": "",
+"url" :  "https://forgepattern.net/embed/ugce3jz6chx",
+"referer" : "https://www.elixx.xyz/",
+"isHost": "true"
+},
+ {
+"name": "Canale 3",
+"info": "Prova",
+"image": "",
+"url" :  "https://swipebreed.net/embed/t83h07fpraz",
+"referer" : "https://tarjetarojaenvivo.lat/",
+"isHost": "true"
+},
+ {
+"name": "Canale 4",
+"info": "Prova",
+"image": "",
+"url" :  "https://dinnerpotential.net/embed/eflb8gathr4gtu",
+"referer" : "https://tarjetarojaenvivo.lat/",
+"isHost": "true"
+},
+ {
+"name": "Canale 5",
+"info": "Prova",
+"image": "",
+"url" :  "https://forgepattern.net/embed/gy67an2ct",
+"referer" : "https://www.elixx.xyz/",
+"isHost": "true"
+},
+ {
+"name": "Canale 6",
+"info": "Prova",
+"image": "",
+"url" :  "https://closedjelly.net/embed/fxf2qstg",
+"referer" : "https://www.elixx.xyz/",
+"isHost": "true"
 
 		}]
 	}, 
