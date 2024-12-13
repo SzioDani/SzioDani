@@ -162,6 +162,22 @@
 "url": "https://closedjelly.net/embed/lhfsvq5z",
 "referer" : "https://elixx.xyz/",
 "isHost" : "true"
+}, 
+{
+"name": "Canal 8",
+"info": "Prova",
+"image": "",
+"url" :  "https://closedjelly.net/embed/gy67an2ct",
+"referer" : "https://buzztv.futbol/",
+"isHost": "true"
+}, 
+{
+"name": "Canal 9",
+"info": "Prova",
+"image": "",
+"url": "https://forgepattern.net/embed/lhfsvq5z",
+"referer" : "https://elixx.xyz/",
+"isHost": "true"
 
 		}]
 	}, 
