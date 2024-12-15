@@ -16,7 +16,7 @@
 "url": "https://www.rojadirectas.pro/",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
 "refresh": "https://www.rojadirectas.pro",
-"embed": true
+"embed": "true"
 },
 {
 "name": "SOCCERON",
@@ -24,7 +24,7 @@
 "url": "https://hattrick.ws/",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
 "refresh": "https://hattrick.ws/",
-"embed": true
+"embed": "true"
 },
 {
 "name": "SOCCERON 3",
@@ -32,7 +32,7 @@
 "url": "https://hattrick.ws/live3.htm",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
 "refresh": "https://hattrick.ws/live3.htm",
-"embed": true
+"embed": "true"
 },
 {
 "name": "LIVERU",
@@ -40,7 +40,7 @@
 "url": "https://liveru.eu/",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
 "refresh": "https://liveru.eu/",
-"embed": true
+"embed": "true"
 },
 {
 "name": "SPORT ZONE",
@@ -48,7 +48,7 @@
 "url": "https://sportzone.homes/",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
 "refresh": "https://sportzone.homes/",
-"embed": true
+"embed": "true"
 },
 {
 "name": "STREAM HUNTER",
@@ -56,7 +56,7 @@
 "url": "https://streamhunters.top/soccer",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
 "refresh": "https://streamhunters.top/soccer",
-"embed": true
+"embed": "true"
 },
 {
 "name": "CALCIOGA",
@@ -64,7 +64,7 @@
 "url": "https://calcio.monster/streaming-gratis-calcio-1.php",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
 "refresh": "https://calcio.monster/streaming-gratis-calcio-1.php",
-"embed": true
+"embed": "true"
 },
 {
 "name": "SKYSTREAMING",
