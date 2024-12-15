@@ -91,14 +91,6 @@
 "info" : "",
 "embed": "true"
 },
-{
-"name": "TIME4 TV",
-"image": "https://www.calciostreaming.pro/templates/calciostreaming1/images/logo.png",
-"url": "https://time4tv.top/",
-"userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
-"refresh": "https://time4tv.top/",
-"embed": "true"
-},
  {
 "name": "Canale 1",
 "info": "Prova (swipebreed.net)",
