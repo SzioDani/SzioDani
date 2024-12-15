@@ -61,51 +61,43 @@
 {
 "name": "CALCIOGA",
 "image": "https://1000marche.net/wp-content/uploads/2022/06/Calcio-Logo.jpg",
-"url": "https://calcio.run/streaming-gratis-calcio-1.php",
+"url": "https://calcio.monster/streaming-gratis-calcio-1.php",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
-"refresh": "https://calcio.run/streaming-gratis-calcio-1.php",
+"refresh": "https://calcio.monster/streaming-gratis-calcio-1.php",
 "embed": true
 },
 {
 "name": "SKYSTREAMING",
 "image": "https://skystreaming.guru/content/auto_site_logo.png",
-"url": "https://skystreaming.guru/",
+"url": "https://skystreaming.my/",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
-"refresh": "https://skystreaming.guru/",
-"embed": true
-},
-{
-"name": "TELERIUM",
-"image": "https://urlscan.io/screenshots/5b78f9e9-6997-4907-829c-ba2aead287ad.png",
-"url": "https://www.telerium.me/?oo=1",
-"userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
-"refresh": "https://www.telerium.me/?oo=1",
-"embed": true
+"refresh": "https://skystreaming.my/",
+"embed": "true"
 },
 {
 "name": "CALCIOSTREAMMING",
 "image": "https://www.calciostreaming.me/templates/calciostreaming1/images/logo.png",
-"url": "https://www.calciostreaming.me/partite-streaming.html",
+"url": "https://calciostreaming.cloud/partite-streaming.html",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
-"refresh": "https://www.calciostreaming.me/partite-streaming.html",
-"embed": true
+"refresh": "https://www.calciostreaming.cloud/partite-streaming.html",
+"embed": "true"
 },
 {
 "name": "CALCIO IN STREAMING",
 "image": "https://www.calciostreaming.pro/templates/calciostreaming1/images/logo.png",
-"url": "https://calciostreaming.guru/",
+"url": "https://calciostreaming.shop/",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
-"refresh": "https://calciostreaming.guru/",
-"info" : "OBBLIGO REGISTRAZIONE",
-"embed": true
+"refresh": "https://calciostreaming.shop",
+"info" : "",
+"embed": "true"
 },
 {
-"name": "CALCIO IN STREAMING",
+"name": "TIME4 TV",
 "image": "https://www.calciostreaming.pro/templates/calciostreaming1/images/logo.png",
-"url": "https://time4tv.top/stream/stream-877.php",
+"url": "https://time4tv.top/",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
-"refresh": "https://time4tv.top/stream/stream-877.php",
-"embed": true
+"refresh": "https://time4tv.top/",
+"embed": "true"
 },
  {
 "name": "Canale 1",
