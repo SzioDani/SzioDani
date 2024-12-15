@@ -180,26 +180,26 @@
     {
  "name": "STREAMMINGCOMMUNITY",
  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzSIfOVdO1sL9K3_zEmG6988sZxNxM_pm7tQ&s",
- "url": "https://streamingcommunity.computer/",
+ "url": "https://streamingcommunity.family/",
  "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
- "refresh": "https://streamingcommunity.computer/",
- "embed": true
+ "refresh": "https://streamingcommunity.family/",
+ "embed": "true"
   },
   {
  "name": "EUROSTREAMMING",
  "image": "https://eurostreaming.nexus/wp-content/uploads/2017/08/logo_upt_nexus.png",
- "url": "https://eurostreaming.nexus/",
+ "url": "https://eurostreaming.my/",
  "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
- "refresh": "https://eurostreaming.nexus/",
- "embed": true
+ "refresh": "https://eurostreaming.my/",
+ "embed": "true"
   },
   {
  "name": "CB01",
  "image": "https://cb01.forsale/wp-content/uploads/2024/01/logo-cb01-uno-film-streaming.webp",
- "url": "https://cb01.forsale/",
+ "url": "https://cb01new.icu/",
  "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
- "refresh": "https://cb01.forsale/",
- "embed": true
+ "refresh": "https://cb01new.icu/",
+ "embed": "true"
    },
    {
  "name": "CB01",
@@ -208,7 +208,7 @@
  "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
  "refresh": "https://oroscrtroom.it/",
  "info" : "SITO UFFICIALE",
- "embed": true
+ "embed": "true"
   },
   {
 "name": "IL GENIO DELLO STREAMING",
@@ -216,15 +216,15 @@
 "url": "https://camminidellazio.it/",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
 "refresh": "https://camminidellazio.it/",
-"embed": true
+"embed": "true"
   },
   {
 "name": "CASA CINEMA",
 "image": "https://casacinema.food/templates/casacinema/images/logo-search.png",
-"url": "https://casacinema.food/",
+"url": "https://casacinema.taxi/",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
-"refresh": "https://casacinema.food/",
-"embed": true
+"refresh": "https://casacinema.taxi/",
+"embed": "true"
   },
   {
 "name": "ALTADEFINIZIONE01",
@@ -232,7 +232,7 @@
 "url": "https://www.altadefinizione01.living/",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
 "refresh": "https://www.altadefinizione01.living/",
-"embed": true
+"embed": "true"
   },
   {
 "name": "GUARDASERIE",
@@ -240,7 +240,7 @@
 "url": "https://guardaserie.meme/",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
 "refresh": "https://guardaserie.meme/",
-"embed": true
+"embed": "true"
 },
  {
  "name": "ANIMEUNITY",
@@ -248,7 +248,7 @@
  "url": "https://www.animeunity.to/",
  "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
  "refresh": "https://www.animeunity.to/",
- "embed": true
+ "embed": "true"
  }]
   },
 
