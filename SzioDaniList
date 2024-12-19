@@ -1,16 +1,16 @@
 {
-    "name": "SZioDani🙂🥳🐥",
-    "author": "Zio Dani",
-    "image": "https://media.tenor.com/InWk2g6M8YQAAAAM/hello-chicken.gif",
-    "info": "Streaming Sportivo ma non solo",
-    "telegram" : "",
-    "url": "https://raw.githubusercontent.com/SzioDani/SzioDani/refs/heads/main/SzioDaniList",
-    "groups": [{
-             "name": "RACCOLTA SITI SPORTIVI",
-            "image": "https://i.ytimg.com/vi/TZJJJ6Bmh48/maxresdefault.jpg",
-            "info": "",
-            "stations": [
-            {
+"name": "SZioDani🙂🥳🐥",
+"author": "Zio Dani",
+"image": "https://media.tenor.com/InWk2g6M8YQAAAAM/hello-chicken.gif",
+"info": "Streaming Sportivo ma non solo",
+"telegram" : "",
+"url": "https://raw.githubusercontent.com/SzioDani/SzioDani/refs/heads/main/SzioDaniList",
+"groups": [{
+"name": "RACCOLTA SITI SPORTIVI",
+"image": "https://i.ytimg.com/vi/TZJJJ6Bmh48/maxresdefault.jpg",
+"info": "",
+"stations": [
+{
 "name": "RAJODIRECTA",
 "image": "https://planetxtech.org/wp-content/uploads/1466595-1068x601.png.webp",
 "url": "https://www.rojadirectas.pro/",
@@ -91,7 +91,7 @@
 "info" : "",
 "embed": "true"
 },
- {
+{
 "name": "Canale 1",
 "info": "Prova (swipebreed.net)",
 "image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
@@ -99,7 +99,7 @@
 "referer" : "https://tarjetarojaenvivo.lat/",
 "isHost": "true"
 },
- {
+{
 "name": "Canale 2",
 "info": "Prova (forgepattern.net)",
 "image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
@@ -107,7 +107,7 @@
 "referer" : "https://www.elixx.xyz/",
 "isHost": "true"
 },
- {
+{
 "name": "Canale 3",
 "info": "Prova (swipebreed.net)",
 "image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
@@ -115,7 +115,7 @@
 "referer" : "https://tarjetarojaenvivo.lat/",
 "isHost": "true"
 },
- {
+{
 "name": "Canale 4",
 "info": "Prova (dinnerpotential.net)",
 "image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
@@ -123,7 +123,7 @@
 "referer" : "https://tarjetarojaenvivo.lat/",
 "isHost": "true"
 },
- {
+{
 "name": "Canale 5",
 "info": "Prova (forgepattern.net)",
 "image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
@@ -131,7 +131,7 @@
 "referer" : "https://www.elixx.xyz/",
 "isHost": "true"
 },
- {
+{
 "name": "Canale 6",
 "info": "Prova (closedjelly.net)",
 "image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
@@ -146,7 +146,7 @@
 "url": "https://closedjelly.net/embed/lhfsvq5z",
 "referer" : "https://elixx.xyz/",
 "isHost" : "true"
-}, 
+},
 {
 "name": "Canale 8",
 "info": "Prova (closedjelly.net)",
@@ -154,7 +154,7 @@
 "url" :  "https://closedjelly.net/embed/gy67an2ct",
 "referer" : "https://buzztv.futbol/",
 "isHost": "true"
-}, 
+},
 {
 "name": "Canale 9",
 "info": "Prova (forgepattern.net)",
@@ -162,7 +162,7 @@
 "url": "https://forgepattern.net/embed/lhfsvq5z",
 "referer" : "https://elixx.xyz/",
 "isHost": "true"
-}, 
+},
 {
 "name": "Canale 10",
 "info": "Prova (forgepattern.net)",
@@ -170,71 +170,71 @@
 "url": "https://forgepattern.net/embed/lhfsvq5z",
 "referer" : "https://elixx.xyz/",
 "isHost": "true"
- }]
- },
- {
-			"name": "RACCOLTA SITI CINEMA",
-	   		"image": "https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg",
-	   		"info": "Canali Streaming Daddy Live",
-   			"stations": [
-    {
- "name": "STREAMMINGCOMMUNITY",
- "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzSIfOVdO1sL9K3_zEmG6988sZxNxM_pm7tQ&s",
- "url": "https://streamingcommunity.family/",
- "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
- "refresh": "https://streamingcommunity.family/",
- "embed": "true"
-  },
-  {
- "name": "EUROSTREAMMING",
- "image": "https://eurostreaming.nexus/wp-content/uploads/2017/08/logo_upt_nexus.png",
- "url": "https://eurostreaming.my/",
- "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
- "refresh": "https://eurostreaming.my/",
- "embed": "true"
-  },
-  {
- "name": "CB01",
- "image": "https://cb01.forsale/wp-content/uploads/2024/01/logo-cb01-uno-film-streaming.webp",
- "url": "https://cb01new.icu/",
- "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
- "refresh": "https://cb01new.icu/",
- "embed": "true"
-   },
-   {
- "name": "CB01",
- "image": "https://oroscrtroom.it/templates/cb01/img/logo.webp",
- "url": "https://oroscrtroom.it/",
- "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
- "refresh": "https://oroscrtroom.it/",
- "info" : "SITO UFFICIALE",
- "embed": "true"
-  },
-  {
+}]
+},
+{
+"name": "RACCOLTA SITI CINEMA",
+"image": "https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg",
+"info": "Canali Streaming Daddy Live",
+"stations": [
+{
+"name": "STREAMMINGCOMMUNITY",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzSIfOVdO1sL9K3_zEmG6988sZxNxM_pm7tQ&s",
+"url": "https://streamingcommunity.family/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"refresh": "https://streamingcommunity.family/",
+"embed": "true"
+},
+{
+"name": "EUROSTREAMMING",
+"image": "https://eurostreaming.nexus/wp-content/uploads/2017/08/logo_upt_nexus.png",
+"url": "https://eurostreaming.my/",
+"userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+"refresh": "https://eurostreaming.my/",
+"embed": "true"
+},
+{
+"name": "CB01",
+"image": "https://cb01.forsale/wp-content/uploads/2024/01/logo-cb01-uno-film-streaming.webp",
+"url": "https://cb01new.icu/",
+"userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+"refresh": "https://cb01new.icu/",
+"embed": "true"
+},
+{
+"name": "CB01",
+"image": "https://oroscrtroom.it/templates/cb01/img/logo.webp",
+"url": "https://oroscrtroom.it/",
+"userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+"refresh": "https://oroscrtroom.it/",
+"info" : "SITO UFFICIALE",
+"embed": "true"
+},
+{
 "name": "IL GENIO DELLO STREAMING",
 "image": "https://camminidellazio.it/templates/ita/images/logo.png",
 "url": "https://camminidellazio.it/",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
 "refresh": "https://camminidellazio.it/",
 "embed": "true"
-  },
-  {
+},
+{
 "name": "CASA CINEMA",
 "image": "https://casacinema.food/templates/casacinema/images/logo-search.png",
 "url": "https://casacinema.taxi/",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
 "refresh": "https://casacinema.taxi/",
 "embed": "true"
-  },
-  {
+},
+{
 "name": "ALTADEFINIZIONE01",
 "image": "https://www.altadefinizione01.living/templates/Darktemplate_pagespeed/images/logo.png",
 "url": "https://www.altadefinizione01.living/",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
 "refresh": "https://www.altadefinizione01.living/",
 "embed": "true"
-  },
-  {
+},
+{
 "name": "GUARDASERIE",
 "image": "https://guardaserie.meme/templates/guardaseriecool/images/logo5.png",
 "url": "https://guardaserie.meme/",
@@ -242,322 +242,25 @@
 "refresh": "https://guardaserie.meme/",
 "embed": "true"
 },
- {
- "name": "ANIMEUNITY",
- "image": "https://www.animeunity.to/images/scritta2.png",
- "url": "https://www.animeunity.to/",
- "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
- "refresh": "https://www.animeunity.to/",
- "embed": "true"
- }]
-  }, 
 {
-
-
-"name": "Zona Dabby Live",
-"image": "https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",
-"info": "",
- "groups": [
-    
-        {
-			"name": "Daddy Live Calcio",
-	   		"image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
-	   		"info": "xyzdddd.mizhls.ru",
-   			"stations": [
-	
-        {
-        "name": "DAZN 1 🇮🇹",
-        "info":"",
-        "image": "https://logowik.com/content/uploads/images/dazn5171.jpg",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium877/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY SPORT CALCIO 🇮🇹",
-        "info":"",
-        "image": "https://www.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium870/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        
-        },
-        {
-			"name": "Daddy Live Sport",
-	   		"image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
-	   		"info": "xyzdddd.mizhls.ru",
-   			},
-        {
-        "name": "SKY SPORT 1 (251) 🇮🇹",
-        "info":"Canale (251)",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sky_Sport_1_-_Logo_2015.svg/1024px-Sky_Sport_1_-_Logo_2015.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium871/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY SPORT 2 (252) 🇮🇹",
-        "info":"Canale (252)",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sky_Sport_2_-_Logo_2015.svg/1024px-Sky_Sport_2_-_Logo_2015.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium872/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY SPORT 3 (253) 🇮🇹",
-        "info":"Canale (253)",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_3_-_Logo_2015.svg/1024px-Sky_Sport_3_-_Logo_2015.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium873/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY SPORT 4 (254) 🇮🇹",
-        "info":"Canale (254)",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_Sport_4_-_Logo_2016.svg/1024px-Sky_Sport_4_-_Logo_2016.svg.png?20180825162243",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium874/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY SPORT 1 🇮🇹",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1024px-Sky_Sport_Uno_-_Logo_2020.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium461/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY SPORT ARENA 🇮🇹",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1024px-Sky_Sport_Arena_-_Logo_2020.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium462/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY SPORT MAX 🇮🇹",
-        "info":"",
-        "image": "https://www.lyngsat.com/logo/tv/ss/sky-sport-max-it.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium460/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY SPORT F1 🇮🇹",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1024px-Sky_Sport_F1_-_Logo_2020.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium577/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY SPORT MOTO GP 🇮🇹",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1024px-Sky_Sport_F1_-_Logo_2020.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium575/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "EUROSPORT 1 🇮🇹",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1024px-Eurosport_1_Logo_2015.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium878/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "EUROSPORT 2 🇮🇹",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/1600px-Eurosport_2_Logo_2015.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium879/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY SPORT TENNIS 🇮🇹",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1024px-Sky_Sport_Tennis.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium576/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY SPORT NBA 🇮🇹",
-        "info":"",
-        "image": "https://www.dietrolanotizia.eu/wp-content/uploads/2021/02/sky-sport-nba-2018-e1530634759970-1024x390.jpg",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium875/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        
-        
- 
-        },
-        {
-			"name": "Daddy Live Cinema",
-	   		"image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
-	   		"info": "xyzdddd.mizhls.ru",
-   			},
-        {
-        "name": "SKY CINEMA 1 🇮🇹",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/SKY_CINEMA_UNO_HD.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium860/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY CINEMA DRAMA 🇮🇹",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sky_Cinema_Drama_-_Logo_2019.svg/1024px-Sky_Cinema_Drama_-_Logo_2019.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium867/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY CINEMA SUSPENSE 🇮🇹",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Cinema_Suspense_-_Logo_2021.svg/1024px-Sky_Cinema_Suspense_-_Logo_2021.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium868/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY CINEMA ACTION 🇮🇹",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/1024px-Sky_Cinema_Action_-_Logo_2021.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium861/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-          "name": "SKY CINEMA ROMANCE 🇮🇹",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sky_Cinema_Romance_-_Logo_2021.svg/1024px-Sky_Cinema_Romance_-_Logo_2021.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium864/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY CINEMA FAMILY 🇮🇹",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/1024px-Sky_Cinema_Family_-_Logo_2021.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium865/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY CINEMA COMEDY 🇮🇹",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Sky_Cinema_Comedy_-_Logo_2021.svg/1024px-Sky_Cinema_Comedy_-_Logo_2021.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium862/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        
-        },
-        {
-        "name": "DADDY LIVE SERIE",
-        "image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
-        "info": "xyzdddd.mizhls.ru",
-        },
-                 {
-        "name": "SKY SERIE 🇮🇹",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sky_Serie.svg/1024px-Sky_Serie.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium880/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        
-        },
-             {
-        "name": "DADDY LIVE INTRATTENIMENTO",
-        "image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
-        "info": "xyzdddd.mizhls.ru",
-        },
-                 {
-        "name": "SKY UNO 🇮🇹",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sky_Uno_-_Logo_2021.svg/1024px-Sky_Uno_-_Logo_2021.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium881/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        
-        },
-            {
-        "name": "DADDY LIVE TV",
-        "image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
-        "info": "xyzdddd.mizhls.ru",
-        },
-                 {
-        "name": "RSI 1 🇨🇭­",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/520px-RSI_La_1_2012.svg.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium863/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
+"name": "ANIMEUNITY",
+"image": "https://www.animeunity.to/images/scritta2.png",
+"url": "https://www.animeunity.to/",
+"userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+"refresh": "https://www.animeunity.to/",
+"embed": "true"
 }]
 },
 {
 "name": "Daddy Live Calcio",
 "image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
-"info": "webhdrunns.mizhls.ru",
+"info": "Canali Streaming Daddy Live",
 "stations": [
 {
 "name": "DAZN 1 🇮🇹",
 "info":"",
 "image": "https://logowik.com/content/uploads/images/dazn5171.jpg",
-"url": "https://webhdrunns.mizhls.ru/lb/premium877/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium877/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -567,7 +270,7 @@
 "name": "SKY SPORT CALCIO 🇮🇹",
 "info":"",
 "image": "https://www.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium870/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium870/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -577,13 +280,13 @@
 {
 "name": "Daddy Live Sport",
 "image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
-"info": "webhdrunns.mizhls.ru",
+"info": "Canali Streaming Daddy Live",
 "stations": [
 {
 "name": "SKY SPORT 1 (251) 🇮🇹",
 "info":"Canale (251)",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sky_Sport_1_-_Logo_2015.svg/1024px-Sky_Sport_1_-_Logo_2015.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium871/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium871/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -593,7 +296,7 @@
 "name": "SKY SPORT 2 (252) 🇮🇹",
 "info":"Canale (252)",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sky_Sport_2_-_Logo_2015.svg/1024px-Sky_Sport_2_-_Logo_2015.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium872/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium872/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -603,7 +306,7 @@
 "name": "SKY SPORT 3 (253) 🇮🇹",
 "info":"Canale (253)",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_3_-_Logo_2015.svg/1024px-Sky_Sport_3_-_Logo_2015.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium873/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium873/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -613,7 +316,7 @@
 "name": "SKY SPORT 4 (254) 🇮🇹",
 "info":"Canale (254)",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_Sport_4_-_Logo_2016.svg/1024px-Sky_Sport_4_-_Logo_2016.svg.png?20180825162243",
-"url": "https://webhdrunns.mizhls.ru/lb/premium874/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium874/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -623,7 +326,7 @@
 "name": "SKY SPORT 1 🇮🇹",
 "info":"",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1024px-Sky_Sport_Uno_-_Logo_2020.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium461/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium461/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -633,7 +336,7 @@
 "name": "SKY SPORT ARENA 🇮🇹",
 "info":"",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1024px-Sky_Sport_Arena_-_Logo_2020.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium462/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium462/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -643,7 +346,7 @@
 "name": "SKY SPORT MAX 🇮🇹",
 "info":"",
 "image": "https://www.lyngsat.com/logo/tv/ss/sky-sport-max-it.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium460/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium460/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -653,7 +356,7 @@
 "name": "SKY SPORT F1 🇮🇹",
 "info":"",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1024px-Sky_Sport_F1_-_Logo_2020.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium577/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium577/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -663,7 +366,7 @@
 "name": "SKY SPORT MOTO GP 🇮🇹",
 "info":"",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1024px-Sky_Sport_F1_-_Logo_2020.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium575/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium575/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -673,7 +376,7 @@
 "name": "EUROSPORT 1 🇮🇹",
 "info":"",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1024px-Eurosport_1_Logo_2015.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium878/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium878/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -683,7 +386,7 @@
 "name": "EUROSPORT 2 🇮🇹",
 "info":"",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/1600px-Eurosport_2_Logo_2015.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium879/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium879/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -693,7 +396,7 @@
 "name": "SKY SPORT TENNIS 🇮🇹",
 "info":"",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1024px-Sky_Sport_Tennis.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium576/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium576/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -703,7 +406,7 @@
 "name": "SKY SPORT NBA 🇮🇹",
 "info":"",
 "image": "https://www.dietrolanotizia.eu/wp-content/uploads/2021/02/sky-sport-nba-2018-e1530634759970-1024x390.jpg",
-"url": "https://webhdrunns.mizhls.ru/lb/premium875/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium875/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -713,13 +416,13 @@
 {
 "name": "Daddy Live Cinema",
 "image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
-"info": "webhdrunns.mizhls.ru",
+"info": "Canali Streaming Daddy Live",
 "stations": [
 {
 "name": "SKY CINEMA 1 🇮🇹",
 "info":"",
 "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/SKY_CINEMA_UNO_HD.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium860/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium860/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -729,7 +432,7 @@
 "name": "SKY CINEMA DRAMA 🇮🇹",
 "info":"",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sky_Cinema_Drama_-_Logo_2019.svg/1024px-Sky_Cinema_Drama_-_Logo_2019.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium867/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium867/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -739,7 +442,7 @@
 "name": "SKY CINEMA SUSPENSE 🇮🇹",
 "info":"",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Cinema_Suspense_-_Logo_2021.svg/1024px-Sky_Cinema_Suspense_-_Logo_2021.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium868/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium868/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -749,7 +452,7 @@
 "name": "SKY CINEMA ACTION 🇮🇹",
 "info":"",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/1024px-Sky_Cinema_Action_-_Logo_2021.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium861/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium861/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -759,7 +462,7 @@
 "name": "SKY CINEMA ROMANCE 🇮🇹",
 "info":"",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sky_Cinema_Romance_-_Logo_2021.svg/1024px-Sky_Cinema_Romance_-_Logo_2021.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium864/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium864/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -769,7 +472,7 @@
 "name": "SKY CINEMA FAMILY 🇮🇹",
 "info":"",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/1024px-Sky_Cinema_Family_-_Logo_2021.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium865/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium865/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -779,7 +482,7 @@
 "name": "SKY CINEMA COMEDY 🇮🇹",
 "info":"",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Sky_Cinema_Comedy_-_Logo_2021.svg/1024px-Sky_Cinema_Comedy_-_Logo_2021.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium862/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium862/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -789,13 +492,13 @@
 {
 "name": "DADDY LIVE SERIE",
 "image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
-"info": "webhdrunns.mizhls.ru",
+"info": "",
 "stations": [
 {
 "name": "SKY SERIE 🇮🇹",
 "info":"",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sky_Serie.svg/1024px-Sky_Serie.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium880/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium880/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -805,13 +508,13 @@
 {
 "name": "DADDY LIVE INTRATTENIMENTO",
 "image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
-"info": "webhdrunns.mizhls.ru",
+"info": "",
 "stations": [
 {
 "name": "SKY UNO 🇮🇹",
 "info":"",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sky_Uno_-_Logo_2021.svg/1024px-Sky_Uno_-_Logo_2021.svg.png",
-"url": "https://webhdrunns.mizhls.ru/lb/premium881/index.m3u8",
+"url": "https://xyzdddd.mizhls.ru/lb/premium881/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
@@ -821,7 +524,7 @@
 {
 "name": "DADDY LIVE TV",
 "image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
-"info": "webhdrunns.mizhls.ru",
+"info": "",
 "stations": [
 {
 "name": "RSI 1 🇨🇭­",
@@ -832,8 +535,33 @@
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
 "isHost":""
-        							}
-							]
-                	}
-		]
+}]
+},
+{
+"name": "Please",
+"image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
+"info": "",
+"groups": [
+
+		{
+        "name": "IPTV 02",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://mbsderlo.site:2082/get.php?username=admironold&password=7NeFFyN44PSYold&type=m3u_plus",
+        "info":"100 conex",
+        "import": false
+},
+{
+
+"name": "Prova 1",
+"info":"",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/520px-RSI_La_1_2012.svg.png",
+"url": "http://line.4k-beast.co:80/get.php?username=55821D&password=596436&type=m3u_plus",
+"import": "false",
+"online" : "true"
+
+         
+}
+]
+}
+]
 }
