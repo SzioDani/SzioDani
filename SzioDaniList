@@ -290,7 +290,7 @@
 			"name": "Daddy Live Sport",
 	   		"image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
 	   		"info": "xyzdddd.mizhls.ru",
-   			"stations": [
+   			},
         {
         "name": "SKY SPORT 1 (251) 🇮🇹",
         "info":"Canale (251)",
@@ -428,7 +428,7 @@
 			"name": "Daddy Live Cinema",
 	   		"image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
 	   		"info": "xyzdddd.mizhls.ru",
-   			"stations": [
+   			},
         {
         "name": "SKY CINEMA 1 🇮🇹",
         "info":"",
@@ -504,7 +504,7 @@
         "name": "DADDY LIVE SERIE",
         "image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
         "info": "xyzdddd.mizhls.ru",
-        "stations": [
+        },
                  {
         "name": "SKY SERIE 🇮🇹",
         "info":"",
@@ -520,7 +520,7 @@
         "name": "DADDY LIVE INTRATTENIMENTO",
         "image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
         "info": "xyzdddd.mizhls.ru",
-        "stations": [
+        },
                  {
         "name": "SKY UNO 🇮🇹",
         "info":"",
@@ -536,7 +536,7 @@
         "name": "DADDY LIVE TV",
         "image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
         "info": "xyzdddd.mizhls.ru",
-        "stations": [
+        },
                  {
         "name": "RSI 1 🇨🇭­",
         "info":"",
