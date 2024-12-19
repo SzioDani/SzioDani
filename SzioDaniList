@@ -258,7 +258,12 @@
 "image": "https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",
 "info": "",
  "groups": [
-
+    
+        {
+			"name": "Daddy Live Calcio",
+	   		"image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
+	   		"info": "xyzdddd.mizhls.ru",
+   			"stations": [
 	
         {
         "name": "DAZN 1 🇮🇹",
