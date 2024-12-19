@@ -173,11 +173,6 @@
  }]
  },
  {
-"name": "Zona Dabby Live",
-"image": "https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",
-"info": "",
- "groups": [
-             {
 			"name": "RACCOLTA SITI CINEMA",
 	   		"image": "https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg",
 	   		"info": "Canali Streaming Daddy Live",
@@ -255,13 +250,16 @@
  "refresh": "https://www.animeunity.to/",
  "embed": "true"
  }]
-  },
+  }, 
+{
 
-	{
-			"name": "Daddy Live Calcio",
-	   		"image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
-	   		"info": "xyzdddd.mizhls.ru",
-   			"stations": [
+
+"name": "Zona Dabby Live",
+"image": "https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",
+"info": "",
+ "groups": [
+
+	
         {
         "name": "DAZN 1 🇮🇹",
         "info":"",
