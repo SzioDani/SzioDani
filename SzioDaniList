@@ -585,6 +585,15 @@
 "import": "false",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "online" : "true"
+},
+{
+"name": "Prova 4🇮🇹",
+"info":"14/5/25",
+"image": "https://media1.giphy.com/media/bXhiABcqQGT3W/giphy.gif?cid=6c09b952u5diuegonyz5srnstroncn5veewn6lrp6wwivj20&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g",
+"url": "http://world-panel.co:8080/get.php?username=@LidiaTrov@&password=19Dar!Lid82&type=m3u_plus",
+"import": "false",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"online" : "true"
 }
 ]
          
