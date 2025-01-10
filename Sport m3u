@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="http://kodibalkan.com/IPTVROBINHOOD/MenuSlike/social_facebook.png" group-title="",[B][COLOR lime] *** facebook.com/groups/kodibalkan *** [/B][/COLOR]
+skip
+
+#EXTINF
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://mediavideo.blastingnews.com/p/4/2018/10/24/b39deff2-b70e-4ec6-9987-3e0858253dbb.jpg" group-title="",[B][COLOR lime]SPORTS LIVE TV [/B][/COLOR]
+skip
+#EXTINF
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://conocimientocorporativo.com/wp-content/uploads/2016/11/New-Update.png" group-title="",[B][COLOR lime] ***AŽURIRANJE SVAKOGA DANA*** [/B][/COLOR]
 
 
 #EXTINF:-1  tvg-name="Dazn1" group-title="ad.v166.xyz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1
