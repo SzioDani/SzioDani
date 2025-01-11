@@ -42,3 +42,21 @@ http://d029dcec.kazmazpaz.ru/iptv/WSMQQSF4M7PGWH/19113/manifest.m3u8
 
 #EXTINF:-1  tvg-name="SKY SPORT CALCIO" group-title="Ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/1024px-Sky_Sport_Calcio.svg.png" , SKY SPORT CALCIO
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19113/index.m3u8
+
+#EXTINF:-1  tvg-name="SKY SPORT UNO" group-title="Ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1024px-Sky_Sport_Uno_-_Logo_2020.svg.png" , SKY SPORT UNO
+http://d1c06d46.akadatel.com/iptv/26TKCRLCUUW9LQ/19137/index.m3u8
+
+#EXTINF:-1  tvg-name="SKY SPORT UNO" group-title="Ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1024px-Sky_Sport_Uno_-_Logo_2020.svg.png" , SKY SPORT UNO
+http://d1c06d46.akadatel.com/iptv/3G86VGDV4TLZSA/19137/index.m3u8
+
+#EXTINF:-1  tvg-name="SKY SPORT UNO" group-title="Ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1024px-Sky_Sport_Uno_-_Logo_2020.svg.png" , SKY SPORT UNO
+http://88b9da48.kazmazpaz.ru/iptv/6ESD8RFEN3KF87/19137/index.m3u8
+
+#EXTINF:-1  tvg-name="SKY SPORT UNO" group-title="Ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1024px-Sky_Sport_Uno_-_Logo_2020.svg.png" , SKY SPORT UNO
+http://d029dcec.kazmazpaz.ru/iptv/5FRTASC825NL7B/19137/manifest.m3u8
+
+#EXTINF:-1  tvg-name="SKY SPORT UNO" group-title="Ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1024px-Sky_Sport_Uno_-_Logo_2020.svg.png" , SKY SPORT UNO
+http://d029dcec.kazmazpaz.ru/iptv/WSMQQSF4M7PGWH/19137/manifest.m3u8
+
+#EXTINF:-1  tvg-name="SKY SPORT UNO" group-title="Ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1024px-Sky_Sport_Uno_-_Logo_2020.svg.png" , SKY SPORT UNO
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19137/index.m3u8
