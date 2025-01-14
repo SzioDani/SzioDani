@@ -1,0 +1,194 @@
+#EXTM3U
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://spiritolibero.ddns.net:8080/images/italians.jpg" ,======== SKY CINEMA HD ========
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/14
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/8f9a405295b7999ab871755a682128d4.png" tvg-id="Sky Cinema Uno HD" ,SKY Cinema Uno HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/15
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/2beaafa677080141b4f220d9983f74f5.png" tvg-id="Sky Cinema Due HD" ,SKY Cinema Due HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/23
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/54781af25ae4bc92dcbbf855d5f3320f.png" tvg-id="Sky Cinema Action HD" ,SKY Cinema Action HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/16
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/99e04e23452e536b5b21c6bff701c4a2.png" tvg-id="Sky Cinema Family HD" ,SKY Cinema Family HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/18
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/ba12b98e223b06df9babdce54c6ed6fa.png" tvg-id="Sky Cinema Drama HD" ,Sky Cinema Drama HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/25
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/b58df71bd543510a3f57e210491b8759.png" tvg-id="Sky Cinema Collection" ,SKY Cinema Collection HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/17
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/7c6d95efaae0fa898035c4b843fb5d1c.png" tvg-id="Sky Cinema Romance HD" ,SKY Cinema Romance HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/21
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/200d7c15c7477cbf96ceefc5036f6254.png" tvg-id="Sky Cinema Comedy HD" ,SKY Cinema Comedy HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/22
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/5e207734f2cb430919875d98e9e24e4e.png" tvg-id="Sky Cinema Suspence HD" ,SKY Cinema Suspense HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/24
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/8f9a405295b7999ab871755a682128d4.png" ,SKY CINEMA UNO 24 HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/63062
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/2beaafa677080141b4f220d9983f74f5.png" ,SKY CINEMA DUE 24 HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/63063
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://spiritolibero.ddns.net:8080/images/italians.jpg" ,=========SKY CINEMA SD=========
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1919
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://spiritolibero.ddns.net:8080/images/7c6d95efaae0fa898035c4b843fb5d1c.png" tvg-id="Sky Cinema Romance HD" ,Sky Cinema Romance SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1882
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://spiritolibero.ddns.net:8080/images/54781af25ae4bc92dcbbf855d5f3320f.png" tvg-id="Sky Cinema Action HD" ,Sky Cinema Action SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1883
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://spiritolibero.ddns.net:8080/images/0a5add9e0fe16f4e285e597c32100b66.png" tvg-id="Sky Cinema Collection HD" ,Sky Cinema Collection SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1885
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://spiritolibero.ddns.net:8080/images/99e04e23452e536b5b21c6bff701c4a2.png" tvg-id="Sky Cinema Family HD" ,Sky Cinema Family SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1886
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://spiritolibero.ddns.net:8080/images/200d7c15c7477cbf96ceefc5036f6254.png" tvg-id="Sky Cinema Comedy HD" ,Sky Cinema Comedy SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1889
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://spiritolibero.ddns.net:8080/images/5e207734f2cb430919875d98e9e24e4e.png" tvg-id="Sky Cinema Suspence HD" ,Sky Cinema Suspense SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1890
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://spiritolibero.ddns.net:8080/images/ba12b98e223b06df9babdce54c6ed6fa.png" tvg-id="Sky Cinema Drama" ,Sky Cinema Drama SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1893
+#EXTINF:-1 group-title="SKY CINEMA" ,====== CINEMA FULL HD =====
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/40276
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/8f9a405295b7999ab871755a682128d4.png" tvg-id="Sky Cinema Uno Full HD" ,SKY Cinema Uno FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/250
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/2beaafa677080141b4f220d9983f74f5.png" tvg-id="Sky Cinema Due Full HD" ,Sky Cinema Due FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/251
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/54781af25ae4bc92dcbbf855d5f3320f.png" tvg-id="Sky Cinema Action Full HD" ,Sky Cinema Action FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/255
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/99e04e23452e536b5b21c6bff701c4a2.png" tvg-id="Sky Cinema Family FHD" ,Sky Cinema Family FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/254
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/ba12b98e223b06df9babdce54c6ed6fa.png" tvg-id="Sky Cinema Drama FHD" ,Sky Cinema Drama FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/260
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/5e207734f2cb430919875d98e9e24e4e.png" tvg-id="Sky Cinema Suspence FHD" ,Sky Cinema Suspense FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/256
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/200d7c15c7477cbf96ceefc5036f6254.png" tvg-id="Sky Cinema Comedy Full HD" ,Sky Cinema Comedy FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/257
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/0a5add9e0fe16f4e285e597c32100b66.png" tvg-id="Sky Cinema Collection FHD" ,Sky Cinema Collection FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/258
+#EXTINF:-1 group-title="SKY CINEMA" tvg-logo="http://world-service.us:8080/images/7c6d95efaae0fa898035c4b843fb5d1c.png" tvg-id="Sky Cinema Romance FHD" ,Sky Cinema Romance FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/259
+#EXTINF:-1 group-title="EAGLE CINEMA" tvg-logo="http://world-service.us:8080/images/eagle.png" ,Eagle Liam Neeson Channel HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/52126
+#EXTINF:-1 group-title="EAGLE CINEMA" tvg-logo="http://world-service.us:8080/images/eagle.png" ,Eagle MARVEL ꜰʜᴅ
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/52128
+#EXTINF:-1 group-title="EAGLE CINEMA" tvg-logo="http://world-service.us:8080/images/eagle.png" ,Eagle Cinema Sci-Fi ꜰʜᴅ
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/52225
+#EXTINF:-1 group-title="EAGLE CINEMA" tvg-logo="http://world-service.us:8080/images/eagle.png" ,Eagle Cinema Tre ᴴᴰ
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/52226
+#EXTINF:-1 group-title="EAGLE CINEMA" tvg-logo="http://world-service.us:8080/images/eagle.png" ,Eagle Cinema Passione ꜰʜᴅ
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/52227
+#EXTINF:-1 group-title="EAGLE CINEMA" tvg-logo="http://world-service.us:8080/images/eagle.png" ,Eagle Cinema Storico ꜰʜᴅ
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/52228
+#EXTINF:-1 group-title="EAGLE CINEMA" tvg-logo="http://world-service.us:8080/images/eagle.png" ,Eagle Cinema Comico Cult ꜰʜᴅ
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/52229
+#EXTINF:-1 group-title="EAGLE CINEMA" tvg-logo="http://world-service.us:8080/images/eagle.png" ,Eagle Cinema Sorriso ꜰʜᴅ
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/52230
+#EXTINF:-1 group-title="EAGLE CINEMA" tvg-logo="http://world-service.us:8080/images/eagle.png" ,Eagle Cinema Sagas HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/52231
+#EXTINF:-1 group-title="EAGLE CINEMA" tvg-logo="http://world-service.us:8080/images/eagle.png" ,Eagle Il capo dei capi Channel ꜰʜᴅ
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/55305
+#EXTINF:-1 group-title="EAGLE CINEMA" tvg-logo="http://world-service.us:8080/images/eagle.png" ,Eagle Cinema Thriller ꜰʜᴅ
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/55306
+#EXTINF:-1 group-title="EAGLE CINEMA" tvg-logo="http://world-service.us:8080/images/eagle.png" ,Eagle cinema avventura
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/55307
+#EXTINF:-1 group-title="EAGLE CINEMA" tvg-logo="http://world-service.us:8080/images/eagle.png" ,Eagle Cinema azione
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/55308
+#EXTINF:-1 group-title="EAGLE CINEMA" tvg-logo="http://world-service.us:8080/images/eagle.png" ,Eagle Cinema Drammatico ꜰʜᴅ
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/55309
+#EXTINF:-1 group-title="EAGLE CINEMA" tvg-logo="http://world-service.us:8080/images/eagle.png" ,Eagle Cinema Commedia ꜰʜᴅ
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/79108
+#EXTINF:-1 group-title="EAGLE CINEMA" ,Eagle Elvis Presley Channel ꜰʜᴅ 
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/79109
+#EXTINF:-1 group-title="SKY INTRATENIMENTO" tvg-logo="http://spiritolibero.ddns.net:8080/images/italians.jpg" ,=========SKY INTRATENIMENTO=========
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/26
+#EXTINF:-1 group-title="SKY INTRATENIMENTO" tvg-id="Sky Serie HD" ,Sky Series HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/48850
+#EXTINF:-1 group-title="SKY INTRATENIMENTO" tvg-logo="http://world-service.us:8080/images/17b2d59f191f08797f86aedbe86601f5.png" tvg-id="Sky Uno HD" ,Sky Uno HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/27
+#EXTINF:-1 group-title="SKY INTRATENIMENTO" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTde22M54FWfi3BxspdbwBpX4smtyDwfIgQkBlCzeLOX3UIuxoR" tvg-id="Sky Uno HD" ,Sky Uno SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1949
+#EXTINF:-1 group-title="SKY INTRATENIMENTO" tvg-id="Sky Uno HD" ,Sky Uno +1HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/28
+#EXTINF:-1 group-title="SKY INTRATENIMENTO" tvg-logo="http://world-service.us:8080/images/2037245a01705a835c3c38a3a2993641.png" tvg-id="Sky Atlantic HD" ,SKY Atlantic HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/33
+#EXTINF:-1 group-title="SKY INTRATENIMENTO" tvg-logo="http://spiritolibero.ddns.net:8080/images/2037245a01705a835c3c38a3a2993641.png" tvg-id="Sky Atlantic HD" ,SKY ATLANTIC SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1926
+#EXTINF:-1 group-title="SKY INTRATENIMENTO" tvg-logo="http://world-service.us:8080/images/f7458e9177c5312d7cfe8edff0610c72.png" tvg-id="Crime Investigation HD" ,Sky Investigation HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/34
+#EXTINF:-1 group-title="SKY INTRATENIMENTO" tvg-logo="http://spiritolibero.ddns.net:8080/images/f7458e9177c5312d7cfe8edff0610c72.png" tvg-id="Crime Investigation HD" ,SKY INVESTIGATION SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1940
+#EXTINF:-1 group-title="SKY INTRATENIMENTO" tvg-logo="http://world-service.us:8080/images/1043a55031178c455e6144248429583c.png" tvg-id="Comedy Central HD" ,Sky Comedy Central HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/2110
+#EXTINF:-1 group-title="SKY INTRATENIMENTO" ,===== INTRAT. FULL HD =====
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/40278
+#EXTINF:-1 group-title="SKY INTRATENIMENTO" tvg-logo="http://world-service.us:8080/images/17b2d59f191f08797f86aedbe86601f5.png" tvg-id="Sky Uno FHD" ,Sky Uno FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/280
+#EXTINF:-1 group-title="SKY INTRATENIMENTO" tvg-logo="http://world-service.us:8080/images/2037245a01705a835c3c38a3a2993641.png" tvg-id="Sky Atlantic FHD" ,Sky Atlantic FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/281
+#EXTINF:-1 group-title="SKY INTRATENIMENTO" tvg-logo="http://world-service.us:8080/images/f7458e9177c5312d7cfe8edff0610c72.png" tvg-id="Crime Investigation FHD" ,Sky Investigation FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/283
+#EXTINF:-1 group-title="SKY INTRATENIMENTO" tvg-logo="http://world-service.us:8080/images/497cf122cca0d295b9d0e1fd13734fb6.png" tvg-id="SKY MTV HD" ,Sky Mtv FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/284
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://spiritolibero.ddns.net:8080/images/italians.jpg" ,=========SKY SPORT=========
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/85
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/4783d89ed9d285d07f766c487c93d53b.png" tvg-id="Sky Sport24 HD." ,SKY SPORT 24 HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/89
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="Sky Sport Uno" ,Sky Sport Uno HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/26370
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/ef9b3433d7947dbe500187e0eb203225.png" tvg-id="Sky Sport Uno" ,Sky sport Uno SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1896
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/8aefb6e21ae1771a760965460363a5d3.png" tvg-id="Sky Sport Arena HD" ,SKY SPORT ARENA HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/87
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://spiritolibero.ddns.net:8080/images/8aefb6e21ae1771a760965460363a5d3.png" tvg-id="Sky Sport Arena HD" ,SKY SPORT ARENA SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1895
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/f7937ce2f714f33e975c02f6ea49d694.png" tvg-id="Sky Sport Football HD" ,SKY SPORT MAX HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/88
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://spiritolibero.ddns.net:8080/images/f7937ce2f714f33e975c02f6ea49d694.png" tvg-id="Sky Sport NBA HD" ,SKY SPORT MAX SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1906
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/84681bceb1ff9051818e220f61a065b3.png" tvg-id="Sky Sport NBA HD" ,SKY Sport NBA HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/93
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://spiritolibero.ddns.net:8080/images/84681bceb1ff9051818e220f61a065b3.png" tvg-id="Sky Sport NBA HD" ,SKY Sport NBA SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1907
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/a8d1a3deb2d374f5cb527e0f8bca1a82.png" tvg-id="Sky Sport F1 HD" ,SKY SPORT F1 HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/90
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/a8d1a3deb2d374f5cb527e0f8bca1a82.png" tvg-id="Sky Sport F1" ,SKY F1 SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1937
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/b3388eb1d480b64d975fc39f57f7fe36.png" tvg-id="Sky Sport MotoGP HD" ,SKY Moto GP HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/91
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://spiritolibero.ddns.net:8080/images/16c0080a775832798c6affa329beab50.png" tvg-id="Sky Sport MotoGP" ,SKY  Moto GP SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1945
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/b53c700ce3e1d5207060bf46c91e3d46.jpg" tvg-id="SuperTennis.it" ,Sky Supertennis HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1550
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://spiritolibero.ddns.net:8080/images/3fac7616f07473909916c998c57ae15e.png" tvg-id="SuperTennis.it" ,Sky Supertennis SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1908
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/5c3dc9e0ff3113b58c765aa01bd5646b.png" tvg-id="Eurosport 1" ,Sky Eurosport 1 HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1551
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://spiritolibero.ddns.net:8080/images/9b140bdc85ce008a61beeadee1769de1.png" tvg-id="Eurosport 1 HD" ,SKY EUROSPORT 1 SD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1909
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/f16a04c2a68b1105b78962ec38fbca79.png" tvg-id="Eurosport 2 HD" ,SKY EUROSPORT 2 HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/2100
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="SportItalia" ,WRESTLING
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/48725
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtpI3z93z1XSANm32ze2WuEAxNT2NO0YuBtjRtnoJMYC4KwT3o" tvg-id="Sky Inter Channel" ,SKY INTER CHANNEL
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/925
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT14IWoak2x2owm6k5xhWElJj1ah31pa4aYzPG-Wzhn7q0Uc3yoE64kObg" tvg-id="Sky Milan Channel" ,Sky Milan Channel
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1602
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/a4e2d7ee05026f1731020143ef3f8e3b.jpg" tvg-id="Sky Sport Tennis HD" ,SKY Sport Tennis HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1559
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/2011ad90c044c7c502775c7b4a56d076.png" tvg-id="Pesca & Caccia HD" ,Sky Pesca e Caccia  HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1617
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://images.movieplayer.it/t/images/2011/02/04/caccia-e-pesca-192532_jpg_363x200_crop_q85.jpg" tvg-id="Caccia & Pesca HD" ,Sky Caccia e Pesca
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1549
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/2b3c8151aa759be6d95d2b102241e29e.png" ,Top calcio 24 HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/16971
+#EXTINF:-1 group-title="SKY SPORT" ,Sport Italia Si Live 24 HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/63336
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="Sportitalia.it" ,Sport Italia HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1563
+#EXTINF:-1 group-title="SKY SPORT" ,UNIRESAT HD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/1616
+#EXTINF:-1 group-title="SKY SPORT" ,===== SKY SPORT FULL HD =======
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/40280
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/4783d89ed9d285d07f766c487c93d53b.png" tvg-id="Sky Sport 24 HD" ,SKY SPORT 24 FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/290
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/a254b08e40709cb875c2fec8640c6666.png" tvg-id="Sky Sport Uno" ,Sky Sport Uno FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/291
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/510eead570dae50d8b231c58fc599c95.png" tvg-id="Sky Sport NBA FHD" ,Sky Sport NBA FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/292
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/3fac7616f07473909916c998c57ae15e.png" tvg-id="Sky Sport Tennis HD" ,SKY Sport Tennis FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/293
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/f7937ce2f714f33e975c02f6ea49d694.png" tvg-id="Sky Sport Football FHD" ,Sky Sport MAX FHD
+http://world-service.us:8080/1proS070519/6BFkSQEd7Y/294
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="http://world-service.us:8080/images/393aa146193a21d9496addce47d65ab1.png" tvg-id="Sky Sport MotoGP F
