@@ -3,6 +3,9 @@
 #EXTINF:-1  tvg-name="Dazn1" group-title="Unlimited" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1
 http://enfi.enfiserver.site:8000/live/Yung222/Feb0119/25256.ts
 
+#EXTINF:-1  tvg-name="Dazn1" group-title="Unlimited" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1
+http://enfi.enfiserver.site:8000/live/biscias/ab020824/25256.ts
+
 #EXTINF:-1  tvg-name="Dazn1" group-title="sm6j3.maxcur.xyz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1
 http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/911736.ts
 
