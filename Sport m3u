@@ -267,26 +267,26 @@ http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19137/index.m3u8
 #EXTINF:-1  tvg-name="Dazn1" group-title="a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1
 http://jmrk.xyz:8880/live/ty43@optonline.net/qcjWyeQ5bj/558595.ts
 
-#EXTINF:-1  tvg-name="Dazn1" group-title="a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1
-http://jmrk.xyz:8880/live/Jmetes10/Sawyermac18/558595.ts
-
-#EXTINF:-1  tvg-name="Dazn1" group-title="b" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1
-http://neerd.site:8080/live/bGJdp8A8DH/sxgZ5UZxZL/268841.ts
-
 #EXTINF:-1  tvg-name="SKY SPORT UNO" group-title="a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1024px-Sky_Sport_Uno_-_Logo_2020.svg.png" , SKY SPORT UNO
 http://jmrk.xyz:8880/live/ty43@optonline.net/qcjWyeQ5bj/558731.ts
-
-#EXTINF:-1  tvg-name="SKY SPORT UNO" group-title="a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1024px-Sky_Sport_Uno_-_Logo_2020.svg.png" , SKY SPORT UNO
-http://jmrk.xyz:8880/live/Jmetes10/Sawyermac18/558731.ts
-
-#EXTINF:-1  tvg-name="SKY SPORT UNO" group-title="b" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1024px-Sky_Sport_Uno_-_Logo_2020.svg.png" , SKY SPORT UNO
-http://neerd.site:8080/live/bGJdp8A8DH/sxgZ5UZxZL/268766.ts
 
 #EXTINF:-1  tvg-name="SKY SPORT CALCIO" group-title="a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/1024px-Sky_Sport_Calcio.svg.png" , SKY SPORT CALCIO
 http://jmrk.xyz:8880/live/ty43@optonline.net/qcjWyeQ5bj/558718.ts
 
+#EXTINF:-1  tvg-name="Dazn1" group-title="a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1
+http://jmrk.xyz:8880/live/Jmetes10/Sawyermac18/558595.ts
+
+#EXTINF:-1  tvg-name="SKY SPORT UNO" group-title="a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1024px-Sky_Sport_Uno_-_Logo_2020.svg.png" , SKY SPORT UNO
+http://jmrk.xyz:8880/live/Jmetes10/Sawyermac18/558731.ts
+
 #EXTINF:-1  tvg-name="SKY SPORT CALCIO" group-title="a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/1024px-Sky_Sport_Calcio.svg.png" , SKY SPORT CALCIO
 http://jmrk.xyz:8880/live/Jmetes10/Sawyermac18/558718.ts
+
+#EXTINF:-1  tvg-name="Dazn1" group-title="b" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1
+http://neerd.site:8080/live/bGJdp8A8DH/sxgZ5UZxZL/268841.ts
+
+#EXTINF:-1  tvg-name="SKY SPORT UNO" group-title="b" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1024px-Sky_Sport_Uno_-_Logo_2020.svg.png" , SKY SPORT UNO
+http://neerd.site:8080/live/bGJdp8A8DH/sxgZ5UZxZL/268766.ts
 
 #EXTINF:-1  tvg-name="SKY SPORT CALCIO" group-title="b" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/1024px-Sky_Sport_Calcio.svg.png" , SKY SPORT CALCIO
 http://neerd.site:8080/live/bGJdp8A8DH/sxgZ5UZxZL/268757.ts
