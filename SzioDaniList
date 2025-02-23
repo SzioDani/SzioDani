@@ -43,11 +43,19 @@
 "embed": "true"
 },
 {
-"name": "SPORT ZONE",
+"name": "SPORT ZONE 1",
 "image": "https://play-lh.googleusercontent.com/_pJZAOQ-RbZgpccAt1JKsug7NZVhdIZKsydWhx2ochRZG7EJF4yw7OKXp7tYQNe7RSyC",
-"url": "https://sportzone.homes/",
+"url": "https://sportzone.cam/event/Q29tbyB2cyBOYXBvbGk=/8086140",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.121 Mobile Safari/537.36",
-"refresh": "https://sportzone.homes/",
+"refresh": "https://sportzone.cam",
+"embed": "true"
+},
+{
+"name": "SPORT ZONE 2 HD",
+"image": "https://play-lh.googleusercontent.com/_pJZAOQ-RbZgpccAt1JKsug7NZVhdIZKsydWhx2ochRZG7EJF4yw7OKXp7tYQNe7RSyC",
+"url": "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXserie/mono.m3u8",
+"userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.121 Mobile Safari/537.36",
+"refresh": "https://sportzone.cam",
 "embed": "true"
 },
 {
