@@ -110,13 +110,13 @@
 },
 {
 "name": "top1-cdnnew.iosplayer.ru",
-"image": "https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg",
+"image": "https://upload.wikimedia.org/wikipedia/it/a/a2/Sky_TV_Logo.png?20221109115120",
 "info": "Canali Streaming Sport ITA",
 "stations": [
 {
 "name": "SKY SPORT 1",
 "info": "Prova top1-cdnnew.iosplayer.ru",
-"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1024px-Sky_Sport_Uno_-_Logo_2020.svg.png",
 "url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXskysportuno/mono.m3u8",
 "referer" : "",
 "isHost": "true"
@@ -124,7 +124,7 @@
 {
 "name": "SKY SPORTS CALCIO",
 "info": "Prova top1-cdnnew.iosplayer.ru",
-"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/1024px-Sky_Sport_Calcio.svg.png",
 "url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXskysportcalcio/mono.m3u8",
 "referer" : "",
 "isHost": "true"
@@ -140,7 +140,7 @@
 {
 "name": "SKY SPORT 251",
 "info": "Prova top1-cdnnew.iosplayer.ru",
-"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sky_Sport_1_-_Logo_2015.svg/1024px-Sky_Sport_1_-_Logo_2015.svg.png",
 "url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXskysport251/mono.m3u8",
 "referer" : "",
 "isHost": "true"
@@ -148,7 +148,7 @@
 {
 "name": "SKY SPORT 252",
 "info": "Prova top1-cdnnew.iosplayer.ru",
-"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sky_Sport_2_-_Logo_2015.svg/1024px-Sky_Sport_2_-_Logo_2015.svg.png",
 "url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXskysport252/mono.m3u8",
 "referer" : "",
 "isHost": "true"
@@ -156,7 +156,7 @@
 {
 "name": "SKY SPORT ARENA",
 "info": "Prova top1-cdnnew.iosplayer.ru",
-"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1024px-Sky_Sport_Arena_-_Logo_2020.svg.png",
 "url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXskysportarena/mono.m3u8",
 "referer" : "",
 "isHost": "true"
@@ -164,7 +164,7 @@
 {
 "name": "SKY SPORT MAX",
 "info": "Prova top1-cdnnew.iosplayer.ru",
-"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"image": "https://www.lyngsat.com/logo/tv/ss/sky-sport-max-it.png",
 "url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXskysportmax/mono.m3u8",
 "referer" : "",
 "isHost": "true"
@@ -172,7 +172,7 @@
 {
 "name": "SKY SPORT F1",
 "info": "Prova top1-cdnnew.iosplayer.ru",
-"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1024px-Sky_Sport_F1_-_Logo_2020.svg.png",
 "url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXformula/mono.m3u8",
 "referer" : "",
 "isHost": "true"
@@ -180,7 +180,7 @@
 {
 "name": "SKY SPORT MOTO GP",
 "info": "Prova top1-cdnnew.iosplayer.ru",
-"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"image": "https://www.movietele.it/wp-content/uploads/2022/11/sky-sport-motogp-2018-w2100-57c.jpg",
 "url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXskysportmotogp/mono.m3u8",
 "referer" : "",
 "isHost": "true"
@@ -188,7 +188,7 @@
 },
 {
 "name": "SERIE A",
-"image": "https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg",
+"image": "https://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Serie_A_ENILIVE.svg/240px-Serie_A_ENILIVE.svg.png",
 "info": "Canali Stream Sport",
 "stations": [
 {
@@ -375,7 +375,7 @@
 {
 "name": "SKY SPORT CALCIO 🇮🇹",
 "info":"",
-"image": "https://www.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/1024px-Sky_Sport_Calcio.svg.png",
 "url": "https://szio.mizhls.ru/lb/premium870/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
