@@ -51,15 +51,7 @@
 "embed": "true"
 },
 {
-"name": "SPORT ZONE 2 HD",
-"image": "https://play-lh.googleusercontent.com/_pJZAOQ-RbZgpccAt1JKsug7NZVhdIZKsydWhx2ochRZG7EJF4yw7OKXp7tYQNe7RSyC",
-"url": "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXserie/mono.m3u8",
-"userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.121 Mobile Safari/537.36",
-"refresh": "https://sportzone.cam",
-"embed": "true"
-},
-{
-"name": "SPORT ZONE 3",
+"name": "SPORT ZONE 2",
 "image": "https://play-lh.googleusercontent.com/_pJZAOQ-RbZgpccAt1JKsug7NZVhdIZKsydWhx2ochRZG7EJF4yw7OKXp7tYQNe7RSyC",
 "url": "https://sportzone.cam/event/VmVyb25hIHZzIEZpb3JlbnRpbmE=/8089480",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.121 Mobile Safari/537.36",
@@ -67,7 +59,7 @@
 "embed": "true"
 },
 {
-"name": "SPORT ZONE 4",
+"name": "SPORT ZONE 3",
 "image": "https://play-lh.googleusercontent.com/_pJZAOQ-RbZgpccAt1JKsug7NZVhdIZKsydWhx2ochRZG7EJF4yw7OKXp7tYQNe7RSyC",
 "url": "https://sportzone.cam/event/RW1wb2xpIHZzIEF0YWxhbnRh/8109520",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.121 Mobile Safari/537.36",
@@ -114,7 +106,14 @@
 "refresh": "https://calciostreaming.shop",
 "info" : "",
 "embed": "true"
+}
+}]
 },
+{
+"name": "top1-cdnnew.iosplayer.ru",
+"image": "https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg",
+"info": "Canali Streaming Sport ITA",
+"stations": [
 {
 "name": "SKY SPORT 1",
 "info": "Prova top1-cdnnew.iosplayer.ru",
@@ -186,7 +185,14 @@
 "url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXskysportmotogp/mono.m3u8",
 "referer" : "",
 "isHost": "true"
+}
+}]
 },
+{
+"name": "SERIE A",
+"image": "https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg",
+"info": "Canali Stream Sport",
+"stations": [
 {
 "name": "Canale 1",
 "info": "Prova (swipebreed.net)",
@@ -271,7 +277,7 @@
 {
 "name": "RACCOLTA SITI CINEMA",
 "image": "https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg",
-"info": "Canali Streaming Daddy Live",
+"info": "Canali Streaming Cinema",
 "stations": [
 {
 "name": "STREAMMINGCOMMUNITY",
