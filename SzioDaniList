@@ -154,6 +154,22 @@
 "isHost": "true"
 },
 {
+"name": "SKY SPORT 253",
+"info": "Prova top1-cdnnew.iosplayer.ru",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_3_-_Logo_2015.svg/1024px-Sky_Sport_3_-_Logo_2015.svg.png",
+"url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXskysport253/mono.m3u8",
+"referer" : "",
+"isHost": "true"
+},
+{
+"name": "SKY SPORT 254",
+"info": "Prova top1-cdnnew.iosplayer.ru",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_Sport_4_-_Logo_2016.svg/1024px-Sky_Sport_4_-_Logo_2016.svg.png?20180825162243",
+"url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXskysport254/mono.m3u8",
+"referer" : "",
+"isHost": "true"
+},
+{
 "name": "SKY SPORT ARENA",
 "info": "Prova top1-cdnnew.iosplayer.ru",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1024px-Sky_Sport_Arena_-_Logo_2020.svg.png",
