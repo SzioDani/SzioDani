@@ -59,6 +59,22 @@
 "embed": "true"
 },
 {
+"name": "SPORT ZONE 3",
+"image": "https://play-lh.googleusercontent.com/_pJZAOQ-RbZgpccAt1JKsug7NZVhdIZKsydWhx2ochRZG7EJF4yw7OKXp7tYQNe7RSyC",
+"url": "https://sportzone.cam/event/VmVyb25hIHZzIEZpb3JlbnRpbmE=/8089480",
+"userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.121 Mobile Safari/537.36",
+"refresh": "https://sportzone.cam",
+"embed": "true"
+},
+{
+"name": "SPORT ZONE 4",
+"image": "https://play-lh.googleusercontent.com/_pJZAOQ-RbZgpccAt1JKsug7NZVhdIZKsydWhx2ochRZG7EJF4yw7OKXp7tYQNe7RSyC",
+"url": "https://sportzone.cam/event/RW1wb2xpIHZzIEF0YWxhbnRh/8109520",
+"userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.121 Mobile Safari/537.36",
+"refresh": "https://sportzone.cam",
+"embed": "true"
+},
+{
 "name": "STREAM HUNTER",
 "image": "https://www.techowns.com/wp-content/uploads/2022/04/Streamhunter.png",
 "url": "https://streamhunters.top/soccer",
@@ -98,6 +114,78 @@
 "refresh": "https://calciostreaming.shop",
 "info" : "",
 "embed": "true"
+},
+{
+"name": "SKY SPORT 1",
+"info": "Prova top1-cdnnew.iosplayer.ru",
+"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXskysportuno/mono.m3u8",
+"referer" : "",
+"isHost": "true"
+},
+{
+"name": "SKY SPORTS CALCIO",
+"info": "Prova top1-cdnnew.iosplayer.ru",
+"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXskysportcalcio/mono.m3u8",
+"referer" : "",
+"isHost": "true"
+},
+{
+"name": "CALCIOXSERIE",
+"info": "Prova top1-cdnnew.iosplayer.ru",
+"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXserie/mono.m3u8",
+"referer" : "",
+"isHost": "true"
+},
+{
+"name": "SKY SPORT 251",
+"info": "Prova top1-cdnnew.iosplayer.ru",
+"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXskysport251/mono.m3u8",
+"referer" : "",
+"isHost": "true"
+},
+{
+"name": "SKY SPORT 252",
+"info": "Prova top1-cdnnew.iosplayer.ru",
+"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXskysport252/mono.m3u8",
+"referer" : "",
+"isHost": "true"
+},
+{
+"name": "SKY SPORT ARENA",
+"info": "Prova top1-cdnnew.iosplayer.ru",
+"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXskysportarena/mono.m3u8",
+"referer" : "",
+"isHost": "true"
+},
+{
+"name": "SKY SPORT MAX",
+"info": "Prova top1-cdnnew.iosplayer.ru",
+"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXskysportmax/mono.m3u8",
+"referer" : "",
+"isHost": "true"
+},
+{
+"name": "SKY SPORT F1",
+"info": "Prova top1-cdnnew.iosplayer.ru",
+"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXformula/mono.m3u8",
+"referer" : "",
+"isHost": "true"
+},
+{
+"name": "SKY SPORT MOTO GP",
+"info": "Prova top1-cdnnew.iosplayer.ru",
+"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"url" :  "https://top1-cdnnew.iosplayer.ru/top1-cdn/calcioXskysportmotogp/mono.m3u8",
+"referer" : "",
+"isHost": "true"
 },
 {
 "name": "Canale 1",
