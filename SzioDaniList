@@ -43,27 +43,27 @@
 "embed": "true"
 },
 {
-"name": "SPORT ZONE 1",
+"name": "SPORT ZONE",
 "image": "https://play-lh.googleusercontent.com/_pJZAOQ-RbZgpccAt1JKsug7NZVhdIZKsydWhx2ochRZG7EJF4yw7OKXp7tYQNe7RSyC",
-"url": "https://sportzone.cam/event/Q29tbyB2cyBOYXBvbGk=/8086140",
+"url": "https://sportzone.cam/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.121 Mobile Safari/537.36",
 "refresh": "https://sportzone.cam",
 "embed": "true"
 },
 {
-"name": "SPORT ZONE 2",
+"name": "STREAM HUNTER LIVE",
 "image": "https://play-lh.googleusercontent.com/_pJZAOQ-RbZgpccAt1JKsug7NZVhdIZKsydWhx2ochRZG7EJF4yw7OKXp7tYQNe7RSyC",
-"url": "https://sportzone.cam/event/VmVyb25hIHZzIEZpb3JlbnRpbmE=/8089480",
+"url": "https://www.streamhunter.biz/live-football",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.121 Mobile Safari/537.36",
-"refresh": "https://sportzone.cam",
+"refresh": "https://www.streamhunter.biz/",
 "embed": "true"
 },
 {
-"name": "SPORT ZONE 3",
-"image": "https://play-lh.googleusercontent.com/_pJZAOQ-RbZgpccAt1JKsug7NZVhdIZKsydWhx2ochRZG7EJF4yw7OKXp7tYQNe7RSyC",
-"url": "https://sportzone.cam/event/RW1wb2xpIHZzIEF0YWxhbnRh/8109520",
+"name": "DADDY LIVE",
+"image": "https://i0.wp.com/kodibeginner.com/wp-content/uploads/2024/10/daddy-live-kodi.jpg?w=300&ssl=1",
+"url": "https://daddylive.mp/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.121 Mobile Safari/537.36",
-"refresh": "https://sportzone.cam",
+"refresh": "https://daddylive.mp/",
 "embed": "true"
 },
 {
