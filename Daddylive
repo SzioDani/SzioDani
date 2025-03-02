@@ -1,4 +1,4 @@
-#EXTM3U url=""
+#EXTM3U url="https://raw.githubusercontent.com/SzioDani/SzioDani/refs/heads/main/Daddylive"
 #EXTINF:-1 tvg-name="DAZN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="SPORT",DAZN 1
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://nfsnew.koskoros.ru/nfs/premium877/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
