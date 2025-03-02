@@ -377,7 +377,8 @@
 "online":"true",
 "isHost": "",
 "origin": "https://pkpakiplay.xyz",
-"connection": "Keep-Alive"
+"connection": "Keep-Alive",
+"embed": "true"
 },
 {
 "name": "SKY SPORT CALCIO 🇮🇹",
