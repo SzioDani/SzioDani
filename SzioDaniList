@@ -275,6 +275,24 @@
 "url": "https://forgepattern.net/embed/lhfsvq5z",
 "referer" : "https://elixx.xyz/",
 "isHost": "true"
+},
+{
+"name": "Canale 11",
+"info": "https://e1link.link/",
+"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"url": "https://e1link.link/ch20",
+"referer" : "",
+"isHost": "true"
+},
+{
+"name": "Canale 12",
+"info": "https://e1link.link/",
+"image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
+"url": "https://e1link.link/ch21",
+"referer" : "",
+"isHost": "true",
+"embed": "true"
+
 }]
 },
 {
