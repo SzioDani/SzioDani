@@ -282,7 +282,7 @@
 "image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
 "url": "https://e1link.link/ch20",
 "referer" : "",
-"isHost": "",
+"isHost": "false",
 "embed": "true"
 },
 {
@@ -291,7 +291,7 @@
 "image": "https://media.tenor.com/0xQ0oeH7zYMAAAAM/easter-easter-egg-hunt.gif",
 "url": "https://e1link.link/ch21",
 "referer" : "",
-"isHost": "true",
+"isHost": "false",
 "embed": "true"
 
 }]
