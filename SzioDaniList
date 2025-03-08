@@ -401,8 +401,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "",
 "online":"true",
-"isHost": "true",
-"embed": "true"
+"isHost": "false"
 },
 {
 "name": "SKY SPORT CALCIO 🇮🇹",
@@ -411,7 +410,7 @@
 "url": "https://nfsnew.koskoros.ru/nfs/premium870/mono.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "AMAZON PRIME 🇮🇹",
@@ -437,7 +436,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "SKY SPORT 252 🇮🇹",
@@ -447,7 +446,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "SKY SPORT 253 🇮🇹",
@@ -457,7 +456,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "SKY SPORT 254 🇮🇹",
@@ -467,7 +466,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "SKY SPORT 1 🇮🇹",
@@ -477,7 +476,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "SKY SPORT ARENA 🇮🇹",
@@ -487,7 +486,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "SKY SPORT MAX 🇮🇹",
@@ -497,7 +496,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "SKY SPORT F1 🇮🇹",
@@ -507,7 +506,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "SKY SPORT MOTO GP 🇮🇹",
@@ -517,7 +516,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "EUROSPORT 1 🇮🇹",
@@ -527,7 +526,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "EUROSPORT 2 🇮🇹",
@@ -537,7 +536,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "SKY SPORT TENNIS 🇮🇹",
@@ -547,7 +546,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "SKY SPORT NBA 🇮🇹",
@@ -557,7 +556,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 }]
 },
 {
@@ -573,7 +572,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "SKY CINEMA DRAMA 🇮🇹",
@@ -583,7 +582,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "SKY CINEMA SUSPENSE 🇮🇹",
@@ -593,7 +592,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "SKY CINEMA ACTION 🇮🇹",
@@ -603,7 +602,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "SKY CINEMA ROMANCE 🇮🇹",
@@ -613,7 +612,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "SKY CINEMA FAMILY 🇮🇹",
@@ -623,7 +622,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "SKY CINEMA COMEDY 🇮🇹",
@@ -633,7 +632,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 }]
 },
 {
@@ -649,7 +648,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 },
 {
 "name": "SKY SERIE 🇮🇹",
@@ -659,7 +658,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 }]
 },
 {
@@ -675,7 +674,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://cookiewebplay.xyz/",
 "online":"true",
-"isHost":""
+"isHost":"false"
 }]
 }]
 },
