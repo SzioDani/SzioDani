@@ -410,8 +410,8 @@ http://jmrk.xyz:3050/live/PeterMac/Psenwp2ze2/558718.ts
 
 
 #EXTINF:-1 tvg-name="DAZN1" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Serie_A_ENILIVE.svg/702px-Serie_A_ENILIVE.svg.png?20240803122525" group-title="M3U", SPORT 1
-https://nix1-dc4-cdnnew.koskoros.ru/nix1-dc4-cdn/mono20/mono.m3u8&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://nix1-dc4-cdnnew.koskoros.ru/nix1-dc4-cdn/mono20/mono.m3u8/
 #EXTINF:-1 tvg-name="SKY SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Serie_A_ENILIVE.svg/702px-Serie_A_ENILIVE.svg.png?20240803122525" group-title="M3U",SPORT 2
-https://nix1-dc4-cdnnew.koskoros.ru/nix1-dc4-cdn/mono21/mono.m3u8&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://nix1-dc4-cdnnew.koskoros.ru/nix1-dc4-cdn/mono21/mono.m3u8/
 #EXTINF:-1 tvg-name="SKY SPORT CALCIO" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Serie_A_ENILIVE.svg/702px-Serie_A_ENILIVE.svg.png?20240803122525" group-title="M3U", SPORT 3
-https://nix1-dc4-cdnnew.koskoros.ru/nix1-dc4-cdn/mono22/mono.m3u8&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://nix1-dc4-cdnnew.koskoros.ru/nix1-dc4-cdn/mono22/mono.m3u8/
