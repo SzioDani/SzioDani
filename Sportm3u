@@ -515,3 +515,9 @@ https://nix1-dc4-cdnnew.koskoros.ru/nix1-dc4-cdn/mono20/mono.m3u8
 https://nix1-dc4-cdnnew.koskoros.ru/nix1-dc4-cdn/mono21/mono.m3u8
 #EXTINF:-1 tvg-name="SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Serie_A_ENILIVE.svg/702px-Serie_A_ENILIVE.svg.png?20240803122525" group-title="M3U",SPORT 3
 https://nix1-dc4-cdnnew.koskoros.ru/nix1-dc4-cdn/mono22/mono.m3u8
+#EXTINF:-1 tvg-name="SPORT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Serie_A_ENILIVE.svg/702px-Serie_A_ENILIVE.svg.png?20240803122525" group-title="M3U",SPORT 4
+https://911turbo.net:8443/video/hls/YVmIbapRPBdmi-u0X221cA/1742046785/od22.m3u8
+#EXTINF:-1 tvg-name="SPORT 5" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Serie_A_ENILIVE.svg/702px-Serie_A_ENILIVE.svg.png?20240803122525" group-title="M3U",SPORT 5
+https://911turbo.net:8443/video/hls/YVmIbapRPBdmi-u0X221cA/1742046785/od26.m3u8
+#EXTINF:-1 tvg-name="SPORT 6" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Serie_A_ENILIVE.svg/702px-Serie_A_ENILIVE.svg.png?20240803122525" group-title="M3U",SPORT 6
+https://911turbo.net:8443/video/hls/YVmIbapRPBdmi-u0X221cA/1742046785/od21.m3u8
