@@ -13,9 +13,9 @@
 {
 "name": "RAJODIRECTA",
 "image": "https://planetxtech.org/wp-content/uploads/1466595-1068x601.png.webp",
-"url": "https://www.rojadirectas.pro/",
+"url": "http://www.rojadirecta.eu/",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
-"refresh": "https://www.rojadirectas.pro",
+"refresh": "http://www.rojadirecta.eu/",
 "embed": "true"
 },
 {
@@ -93,19 +93,38 @@
 {
 "name": "CALCIOSTREAMMING",
 "image": "https://www.calciostreaming.me/templates/calciostreaming1/images/logo.png",
-"url": "https://calciostreaming.cloud/partite-streaming.html",
+"url": "https://calcio-streaming.help/",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
-"refresh": "https://www.calciostreaming.cloud/partite-streaming.html",
+"refresh": "https://calcio-streaming.help/",
 "embed": "true"
 },
 {
 "name": "CALCIO IN STREAMING",
 "image": "https://www.juvenews.eu/wp-content/uploads/201802/18/08/calcio-streaming.png",
-"url": "https://calciostreaming.shop/",
+"url": "https://direttecommunity.gratis/calcio-streaming/",
 "userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
-"refresh": "https://calciostreaming.shop",
+"refresh": "https://direttecommunity.gratis/calcio-streaming/",
 "info" : "",
 "embed": "true"
+},
+{
+"name": "SPORT LIVE",
+"image": "https://play-lh.googleusercontent.com/pA0ntwJVcm5PK5blgoMIl2Oyp_bTNnfXZMqNXcuud6JJakEd_ZMycX-x9RlEQkLiEw",
+"url": "https://softlive.xyz/",
+"userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+"refresh": "https://softlive.xyz/",
+"info" : "",
+"embed": "true"
+},
+{
+"name": "SPORTS BAY",
+"image": "https://sportsbay.dk/css/spbaylogo.svg",
+"url": "https://sportsbay.dk/sports/football",
+"userAgent": "Mozilla/5.0 (Linux; Android 5.03; LoliPop Juice) AppleWebKit/537.36 (KHTML, come Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36",
+"refresh": "https://sportsbay.dk/sports/football",
+"info" : "",
+"embed": "true"
+
 }]
 },
 {
