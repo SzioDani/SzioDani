@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/DAZN_Channel_%282021%29_Logo.svg" , Dazn 1 Channel 
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=604051&extension=ts&play_token=um7G1LeC4F
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601794&extension=ts&play_token=wtkaqZ73jC
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601791&extension=ts&play_token=olwMBadChZ
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/020IVtm.png" , Sky Sport 1
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601806&extension=ts&play_token=qFJosZWLlz
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/4adTJ65.png" , Sky Sport Calcio 
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601831&extension=ts&play_token=p7PLgIL9dI
