@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="VPN CANADA"
-
+#EXTINF:-1  tvg-name="VPN CANADA", VPN Canada 
+http://
 #EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
 http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=604051&extension=ts&play_token=um7G1LeC4F
 
@@ -30,8 +30,8 @@ http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601824&extensi
 #EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 3
 http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601821&extension=ts&play_token=4Wkm5oMZ5b
 
-#EXTINF:-1  tvg-name="VPN HONG KONG"
-
+#EXTINF:-1  tvg-name="VPN HONG KONG", VPN Hong Kong 
+http://
 #EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
 http://testdi.proxytx.cloud:80/play/live.php?mac=00:1A:79:CC:1E:EE&stream=604050&extension=ts&play_token=ylMAwVmkrL
 
