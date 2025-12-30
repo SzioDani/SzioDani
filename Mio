@@ -139,6 +139,39 @@ http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601824&exten
 http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601821&extension=ts&play_token=O8owTfRhSF
 
 
+#EXTINF:-1  tvg-name="VPN CANADA Scadenza 25 Aprile ", VPN 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/163656
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/5661
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/5662
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/5663
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/020IVtm.png" , Sky Sport 1
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/1960
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/4adTJ65.png" , Sky Sport Calcio 
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/189257
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 1
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/1991
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 2
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/1993
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 3
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/1995
+
+
+
 
 
 
