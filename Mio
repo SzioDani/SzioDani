@@ -349,6 +349,27 @@ http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692409&ext
 http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692406&extension=ts&play_token=rBrDRMDn8l
 
 
+#EXTINF:-1  tvg-name="VPN Francia", VPN Francia Scad. Novembre 
+http://
+
+
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/020IVtm.png" , Sky Sport 1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917704&extension=ts&play_token=hus2owIvml
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/4adTJ65.png" , Sky Sport Calcio 
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917712&extension=ts&play_token=I10huUOtIE
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917723&extension=ts&play_token=eEejkSlX3S
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 2
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917722&extension=ts&play_token=u5BcS3jfM8
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 3
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917721&extension=ts&play_token=DMdYhbJctP
+
+
 
 
 
