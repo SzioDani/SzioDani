@@ -259,6 +259,9 @@ http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692409&ext
 #EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 3
 http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692406&extension=ts&play_token=gW50Nw3I4b
 
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=699223&extension=ts&play_token=pzYYv8BqeD
+
 
 #EXTINF:-1  tvg-name="VPN FRANCIA", VPN FRANCIA Scad. Novembre 
 http://
