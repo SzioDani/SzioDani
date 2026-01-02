@@ -568,6 +568,9 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692409&exte
 #EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 3
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692406&extension=ts&play_token=GbjcL0U299
 
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=699223&extension=ts&play_token=2i296EwkL5
+
 
 #EXTINF:-1  tvg-name="VPN USA", VPN USA 33 Scad. Marzo 27
 http://
@@ -603,6 +606,9 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692409&exte
 #EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 3
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692406&extension=ts&play_token=QvYh2LDzsY
 
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=699223&extension=ts&play_token=YpzgoNCU8l
+
 
 #EXTINF:-1  tvg-name="VPN USA", VPN USA 33 Scad. Dicembre 
 http://
@@ -637,6 +643,9 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692409&exte
 
 #EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 3
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692406&extension=ts&play_token=iuOsO082GD
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=699223&extension=ts&play_token=5qmaYQxHxu
 
 
 #EXTINF:-1  tvg-name="VPN CANADA", VPN CANADA Scad. Agosto 
