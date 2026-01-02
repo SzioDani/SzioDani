@@ -221,6 +221,9 @@ http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=285240&exte
 #EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 3
 http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=285243&extension=ts&play_token=0nR0Pa5OCH
 
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=287865&extension=ts&play_token=lrMQhc96SY
+
 
 #EXTINF:-1  tvg-name="VPN FRANCIA", VPN FRANCIA Scad. dicembre 
 http://
