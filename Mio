@@ -422,6 +422,9 @@ http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692409&extens
 #EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 3
 http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692406&extension=ts&play_token=uVv9s8oyJz
 
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=699223&extension=ts&play_token=MeuRAP54Yf
+
 
 #EXTINF:-1  tvg-name="VPN CANADA", VPN CANADA Scad.Dicembre 
 http://
@@ -526,6 +529,9 @@ http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692409&extens
 
 #EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 3
 http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692406&extension=ts&play_token=ypjjXOf1mj
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=699223&extension=ts&play_token=xdD6U3nwib
 
 
 #EXTINF:-1  tvg-name="VPN USA", VPN USA 33 Scad. Aprile 27
