@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1  tvg-name="VPN CANADA", VPN Canada 
+#EXTINF:-1  tvg-name="VPN CANADA", VPN Canada Scad. Luglio 
 http://
 
 
@@ -35,6 +35,9 @@ http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601824&extensi
 
 #EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 3
 http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601821&extension=ts&play_token=4Wkm5oMZ5b
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=603935&extension=ts&play_token=BEATW03E6Q
 
 
 #EXTINF:-1  tvg-name="VPN CANADA", VPN CANADA 
