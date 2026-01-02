@@ -79,7 +79,7 @@ http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=603935&extens
 
 
 
-#EXTINF:-1  tvg-name="VPN NETHERLANDS 1", VPN NETHERLANDS 1
+#EXTINF:-1  tvg-name="VPN NETHERLANDS 1", VPN NETHERLANDS Scad. Giugno 
 http://
 
 
@@ -112,6 +112,9 @@ http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601824&exten
 
 #EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 3
 http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601821&extension=ts&play_token=O8owTfRhSF
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=604050&extension=ts&play_token=Vjfy076w6k
 
 
 #EXTINF:-1  tvg-name="VPN CANADA Scadenza 25 Aprile ", VPN 
