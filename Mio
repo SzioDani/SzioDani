@@ -728,3 +728,33 @@ http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=60182
 http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=603935&extension=ts&play_token=J1GPFVAVJV
 
 
+#EXTINF:-1  tvg-name="VPN OLANDA", VPN OLANDA Scad Dicembre 27
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:76&stream=1917692&extension=ts&play_token=snJPb3Kr1q
+
+#EXTINF:-1  tvg-name="Sky sport Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Sky-sports-main-arena.jpg?20200324181805" , Sky sport Arena 
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:76&stream=1917714&extension=ts&play_token=qDlKCcWxky
+
+#EXTINF:-1  tvg-name="Sky Sport Max" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Sky_Sport_Max.svg/revision/latest/scale-to-width-down/340?cb=20250428161224" , Sky sport Max
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:76&stream=1917708&extension=ts&play_token=mGaB376xWF
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/020IVtm.png" , Sky Sport 1
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:76&stream=1917704&extension=ts&play_token=lhWN7yDU0h
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/4adTJ65.png" , Sky Sport Calcio 
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:76&stream=1917712&extension=ts&play_token=aAWoXdovFP
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 1
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:76&stream=1917723&extension=ts&play_token=oKJ1OHccwc
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 2
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:76&stream=1917722&extension=ts&play_token=nctJo8SX8J
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://cdn.brandfetch.io/idY2n3o4ZW/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764843515020" , Sky Calcio 3
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:76&stream=1917721&extension=ts&play_token=D4hF620J08
+
+
+
