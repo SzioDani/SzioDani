@@ -1,0 +1,862 @@
+#EXTM3U
+
+
+
+#EXTINF:-1  tvg-name="VPN CANADA" tvg-logo="https://e7.pngegg.com/pngimages/789/198/png-clipart-virtual-private-network-computer-security-computer-network-point-to-point-tunneling-protocol-encryption-vpn-computer-network-globe-thumbnail.png", VPN Canada Scad. Luglio 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=604051&extension=ts&play_token=um7G1LeC4F
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601794&extension=ts&play_token=wtkaqZ73jC
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601791&extension=ts&play_token=olwMBadChZ
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601790&extension=ts&play_token=fgalicjHnf
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601789&extension=ts&play_token=J9a9pYMny3
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601806&extension=ts&play_token=qFJosZWLlz
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601831&extension=ts&play_token=p7PLgIL9dI
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601827&extension=ts&play_token=fwr0qfyOdO
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601824&extension=ts&play_token=SpFyXvvSkt
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601821&extension=ts&play_token=4Wkm5oMZ5b
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=603935&extension=ts&play_token=BEATW03E6Q
+
+
+#EXTINF:-1  tvg-name="VPN CANADA", VPN CANADA Scad. Settembre 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=604050&extension=ts&play_token=1AU6BlmrF3&sn2=
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601793&extension=ts&play_token=QXSRhl12xC&sn2=
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601791&extension=ts&play_token=HL0almXOo0&sn2=
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601790&extension=ts&play_token=eM3QnLny8i&sn2=
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601789&extension=ts&play_token=hmsRG1PY2E&sn2=
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601806&extension=ts&play_token=Sz1nCag2Z8&sn2=
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601821&extension=ts&play_token=y5MwqbFKwF&sn2=
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601827&extension=ts&play_token=hrm4PF7vMw&sn2=
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601824&extension=ts&play_token=sv61KxSRjW&sn2=
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601821&extension=ts&play_token=y5MwqbFKwF&sn2=
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=603935&extension=ts&play_token=ro9QqoVt0i&sn2=
+
+
+
+#EXTINF:-1  tvg-name="VPN NETHERLANDS", VPN NETHERLANDS Scad. Giugno 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=604050&extension=ts&play_token=Vjfy076w6k
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601793&extension=ts&play_token=Dta3e3NWeJ
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601791&extension=ts&play_token=lIzXhkGmnl
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601790&extension=ts&play_token=d5S4hbxogv
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601789&extension=ts&play_token=Auo5lORGoQ
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601806&extension=ts&play_token=Z8JOQQW4fD
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601830&extension=ts&play_token=56IFe2KqgR
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601827&extension=ts&play_token=nn12yWKJBQ
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601824&extension=ts&play_token=oU6F5KFdZX
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601821&extension=ts&play_token=O8owTfRhSF
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=604050&extension=ts&play_token=Vjfy076w6k
+
+
+#EXTINF:-1  tvg-name="VPN CANADA", VPN CANADA Scad. Maggio 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/163656
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/5661
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/5662
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/5663
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/1960
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/189257
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/1991
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/1993
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/1995
+
+
+#EXTINF:-1  tvg-name="VPN SVEZIA", VPN  SVEZIA  Scad. Aprile 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=351700&extension=ts&play_token=UdZjSUI6Z5 
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=287859&extension=ts&play_token=pbziV299tg
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=351747&extension=ts&play_token=32uEMcJsKj
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=351745&extension=ts&play_token=ByIl2fEqi3
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=351743&extension=ts&play_token=l5Yaxpz5R4
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=285258&extension=ts&play_token=pRCgUirQJ4
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=285234&extension=ts&play_token=7YwsQw40v5
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=285237&extension=ts&play_token=vyoCsEwJIc
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=285240&extension=ts&play_token=6kmtRDl8mG
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=285243&extension=ts&play_token=P7fDu3SpnP
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=287865&extension=ts&play_token=TNm243i302
+
+
+#EXTINF:-1  tvg-name="VPN SVEZIA", VPN SVEZIA Scad. Aprile 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=351700&extension=ts&play_token=THqID2kQVL
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=351747&extension=ts&play_token=XwmpnonDiN
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=351745&extension=ts&play_token=HiC3xByOsD
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=351743&extension=ts&play_token=DCd2qPcTtK
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=285258&extension=ts&play_token=gM3UEcEBkn
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=285234&extension=ts&play_token=HfYNqqOQEJ
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=285237&extension=ts&play_token=jpzZrIwvd2
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=285240&extension=ts&play_token=9NNx5j1m0M
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=285243&extension=ts&play_token=0nR0Pa5OCH
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=287865&extension=ts&play_token=lrMQhc96SY
+
+
+#EXTINF:-1  tvg-name="VPN FRANCIA", VPN FRANCIA Scad. dicembre 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=920093&extension=ts&play_token=VvSZdpE4je
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=699229&extension=ts&play_token=IKsuakSZwy
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=920074&extension=ts&play_token=qZS69kk5cn
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=920071&extension=ts&play_token=8xrtJauZR8
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=920068&extension=ts&play_token=pnrrwEaHyr
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692391&extension=ts&play_token=dUOdq1qTlY
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692415&extension=ts&play_token=4TH29bvGSl
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692412&extension=ts&play_token=m51r4d7PXo
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692409&extension=ts&play_token=CmUGhI93uz
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692406&extension=ts&play_token=gW50Nw3I4b
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=699223&extension=ts&play_token=pzYYv8BqeD
+
+
+#EXTINF:-1  tvg-name="VPN FRANCIA", VPN FRANCIA Scad. Novembre 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=920093&extension=ts&play_token=IUcqUI1boc
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=699229&extension=ts&play_token=7yiljHFWmR
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=920074&extension=ts&play_token=m2TZD7nrqg
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=920071&extension=ts&play_token=l2qDWGze4u
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=920068&extension=ts&play_token=DAfbyBLCag
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692391&extension=ts&play_token=GDjWTZNLww
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692415&extension=ts&play_token=xLR6AgsuyS
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692412&extension=ts&play_token=sfQPyZ93UY
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692409&extension=ts&play_token=autttGTzlC
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692406&extension=ts&play_token=rBrDRMDn8l
+
+
+#EXTINF:-1  tvg-name="VPN Francia", VPN Francia Scad. Novembre 
+http://
+
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917704&extension=ts&play_token=hus2owIvml
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917712&extension=ts&play_token=I10huUOtIE
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917723&extension=ts&play_token=eEejkSlX3S
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917722&extension=ts&play_token=u5BcS3jfM8
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917721&extension=ts&play_token=DMdYhbJctP
+
+
+#EXTINF:-1  tvg-name="VPN FRANCIA", VPN FRANCIA Scad. Dicembre 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=920093&extension=ts&play_token=LQq4BVeEg1
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=699229&extension=ts&play_token=e7j70djZbK
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=920074&extension=ts&play_token=RB9CmWT7uB
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=920071&extension=ts&play_token=63PLo77CLe
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=920068&extension=ts&play_token=vqp1P1zyNN
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=692391&extension=ts&play_token=Fbi4B0pUxS
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=692415&extension=ts&play_token=v5qSC6UIgp
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=692412&extension=ts&play_token=qmPHyQzhmD
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=692409&extension=ts&play_token=1uXdpuGXdY
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=692406&extension=ts&play_token=QfsfTC0i1S
+
+
+#EXTINF:-1  tvg-name="VPN OLANDA", VPN OLANDA Scad. Dicembre 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=920093&extension=ts&play_token=oERGGPRY2Q
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=699229&extension=ts&play_token=nzAEmIkflq
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=920074&extension=ts&play_token=RyCliXKhQF
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=920071&extension=ts&play_token=SK8lWDKDPv
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=920068&extension=ts&play_token=TN4QQE40ws
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=692391&extension=ts&play_token=hDqYEQE4ZK
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=692415&extension=ts&play_token=TpLn2C45OB
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=692412&extension=ts&play_token=oEVgqG79nG
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=692409&extension=ts&play_token=42P5EobDID
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=692406&extension=ts&play_token=cyt1yt5b96
+
+
+#EXTINF:-1  tvg-name="VPN FRANCIA", VPN FRANCIA Scad. Novembre 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=920093&extension=ts&play_token=DEHCDJMAXi
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=699229&extension=ts&play_token=RgYG1N4VhS
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=920074&extension=ts&play_token=we5IlmkH0m
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=920071&extension=ts&play_token=pgP9AhqaAS
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=920068&extension=ts&play_token=PrDeNvRgO3
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692391&extension=ts&play_token=8JPn0svT8X
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692415&extension=ts&play_token=TCqa65jIo0
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692412&extension=ts&play_token=UoY21yxQT7
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692409&extension=ts&play_token=vFY5sfeuwC
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692406&extension=ts&play_token=uVv9s8oyJz
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=699223&extension=ts&play_token=MeuRAP54Yf
+
+
+#EXTINF:-1  tvg-name="VPN CANADA", VPN CANADA Scad.Dicembre 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=920093&extension=ts&play_token=mpI34ombi6
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=699229&extension=ts&play_token=gXSkOEZBPu
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=920074&extension=ts&play_token=IZNHM7H1tu
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=920071&extension=ts&play_token=7KpPh05Haj
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=920068&extension=ts&play_token=jKrSWw8SOA
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=692391&extension=ts&play_token=3UczLwaEZU
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=692415&extension=ts&play_token=c3jGOWsKbT
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=692412&extension=ts&play_token=iKGjjOYixd
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=692409&extension=ts&play_token=obQ0X8jN49
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=692406&extension=ts&play_token=e6bzihRnwk
+
+
+#EXTINF:-1  tvg-name="VPN INGHILTERRA", VPN INGHILTERRA Scad. Novembre 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=920093&extension=ts&play_token=EuM1Ts8ANl
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=699229&extension=ts&play_token=p7FfUth3f5
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=920074&extension=ts&play_token=NhSdRUqOvg
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=920071&extension=ts&play_token=9liaRML5wj
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=920068&extension=ts&play_token=qGhfTMg5IV
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=692391&extension=ts&play_token=KJAYp4T2LL
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=692415&extension=ts&play_token=wkY3StkGFz
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=692412&extension=ts&play_token=16g7G4tYhZ
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=692409&extension=ts&play_token=hL2Rc31wRz
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=692406&extension=ts&play_token=IDy9cJcZGn
+
+
+#EXTINF:-1  tvg-name="VPN FRANCIA", VPN FRANCIA Scad. Novembre 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=920093&extension=ts&play_token=6SPdeOVzvw
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=699229&extension=ts&play_token=5RNbPxOQgm
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=920074&extension=ts&play_token=EOON2qWTTv
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=920071&extension=ts&play_token=KCYUGEMvp7
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=920068&extension=ts&play_token=2qpAoAZrC0
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692391&extension=ts&play_token=BpXwWryAIL
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692412&extension=ts&play_token=aSH6Bwc5Fm
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692409&extension=ts&play_token=xQgDQnR49k
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692409&extension=ts&play_token=xQgDQnR49k
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692406&extension=ts&play_token=ypjjXOf1mj
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=699223&extension=ts&play_token=xdD6U3nwib
+
+
+#EXTINF:-1  tvg-name="VPN USA", VPN USA 33 Scad. Aprile 27
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=920093&extension=ts&play_token=2hydu1pu4I
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=699229&extension=ts&play_token=xH9179MyF2
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=920074&extension=ts&play_token=vQk3Z7urzt
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=920071&extension=ts&play_token=sHqdPNcXJR
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=920068&extension=ts&play_token=ekhBR5CO7c
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692391&extension=ts&play_token=c46HCTb3aG
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692415&extension=ts&play_token=DNLxZ1PztV
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692412&extension=ts&play_token=hg0sPninZj
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692409&extension=ts&play_token=D8WONYF93j
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692406&extension=ts&play_token=GbjcL0U299
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=699223&extension=ts&play_token=2i296EwkL5
+
+
+#EXTINF:-1  tvg-name="VPN USA", VPN USA 33 Scad. Marzo 27
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=920093&extension=ts&play_token=OEllWYmaUS
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=699229&extension=ts&play_token=kGUUqzE3Pt
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=920074&extension=ts&play_token=dyfwJSuEAX
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=920071&extension=ts&play_token=yMHqioif67
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=920068&extension=ts&play_token=CJfy6GBPjI
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692391&extension=ts&play_token=Rw9YUc3zS6
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692415&extension=ts&play_token=ORJy0DKyxs
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692412&extension=ts&play_token=vbsGTbSSow
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692409&extension=ts&play_token=w7wbHHGnbp
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692406&extension=ts&play_token=QvYh2LDzsY
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=699223&extension=ts&play_token=YpzgoNCU8l
+
+
+#EXTINF:-1  tvg-name="VPN USA", VPN USA 33 Scad. Dicembre 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=920093&extension=ts&play_token=4JQtOJCGlo
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=699229&extension=ts&play_token=nEqwm5j73O
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=920074&extension=ts&play_token=Tt8VhZEwXe
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=920071&extension=ts&play_token=mUr7S9j3sj
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=920068&extension=ts&play_token=fn6h0zRk5D
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692391&extension=ts&play_token=DFC3PNbxSF
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692415&extension=ts&play_token=AToDFDU5l7
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692412&extension=ts&play_token=g8mQIi1TWt
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692409&extension=ts&play_token=mT0umrphjl
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692406&extension=ts&play_token=iuOsO082GD
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=699223&extension=ts&play_token=5qmaYQxHxu
+
+
+#EXTINF:-1  tvg-name="VPN GERMANY", VPN GERMANY Scad. Dicembre 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=920093&extension=ts&play_token=v2a78UL483
+
+#EXTINF:-1  tvg-name="Dazn1 Bar " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar 
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=699229&extension=ts&play_token=aOegko5QGi
+
+#EXTINF:-1  tvg-name="Dazn2 Bar " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Bar 
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=699226&extension=ts&play_token=pa5NReAqis
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=920074&extension=ts&play_token=hmQLyvpUua
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=920071&extension=ts&play_token=GBbqKFuZtk
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=920068&extension=ts&play_token=uj9zbULDJa
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=692391&extension=ts&play_token=rW7bLzUQgC
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=692415&extension=ts&play_token=kttkPd8jlq
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=692412&extension=ts&play_token=6G813NIsQk
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=692409&extension=ts&play_token=YINTMHjM1p
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=692406&extension=ts&play_token=dagDmPCxIS
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=699223&extension=ts&play_token=KvdcDoU8eN
+
+
+
+#EXTINF:-1  tvg-name="VPN CANADA", VPN CANADA Scad. Agosto 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=604050&extension=ts&play_token=6lqYd4nNc2
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601793&extension=ts&play_token=VZv8xkf21B
+
+#EXTINF:-1  tvg-name="Dazn2 Bar"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Bar
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=603938&extension=ts&play_token=dWeIxKUGUm
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601790&extension=ts&play_token=wYMOA7tqAr
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601789&extension=ts&play_token=C4LgOWuV0L
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601806&extension=ts&play_token=QzYaI7VDAZ
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601830&extension=ts&play_token=0KhTS89BKE
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601827&extension=ts&play_token=IHNbFEKetW
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601824&extension=ts&play_token=JItFi4gA4x
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601821&extension=ts&play_token=d2czJcmXwX
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=603935&extension=ts&play_token=J1GPFVAVJV
+
+
+#EXTINF:-1  tvg-name="VPN OLANDA", VPN OLANDA Scad Dicembre 27
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:76&stream=1917692&extension=ts&play_token=snJPb3Kr1q
+
+#EXTINF:-1  tvg-name="Sky sport Arena" tvg-logo="https://i.imgur.com/4OHGR5Q.png" , Sky sport Arena 
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:76&stream=1917714&extension=ts&play_token=qDlKCcWxky
+
+#EXTINF:-1  tvg-name="Sky Sport Max" tvg-logo="https://i.imgur.com/KbTWuuT.png" , Sky sport Max
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:76&stream=1917708&extension=ts&play_token=mGaB376xWF
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:76&stream=1917704&extension=ts&play_token=lhWN7yDU0h
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:76&stream=1917712&extension=ts&play_token=aAWoXdovFP
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:76&stream=1917723&extension=ts&play_token=oKJ1OHccwc
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:76&stream=1917722&extension=ts&play_token=nctJo8SX8J
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:76&stream=1917721&extension=ts&play_token=D4hF620J08
+
+
+#EXTINF:-1  tvg-name="VPN INGHILTERRA", VPN INGHILTERRA Scad Dicembre 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:CB:01:17&stream=1917692&extension=ts&play_token=IIRXGQnWHh
+
+#EXTINF:-1  tvg-name="Sky sport Arena" tvg-logo="https://i.imgur.com/4OHGR5Q.png" , Sky sport Arena 
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:CB:01:17&stream=1917714&extension=ts&play_token=0KQpaEDLKX
+
+#EXTINF:-1  tvg-name="Sky Sport Max" tvg-logo="https://i.imgur.com/KbTWuuT.png" , Sky sport Max
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:CB:01:17&stream=1917708&extension=ts&play_token=Ze7Cy18Dhi
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:CB:01:17&stream=1917704&extension=ts&play_token=pc8SssWm8b
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:CB:01:17&stream=1917712&extension=ts&play_token=XaiDqBUICs
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:CB:01:17&stream=1917723&extension=ts&play_token=dUYpWeCQ5D
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:CB:01:17&stream=1917722&extension=ts&play_token=idO7FSPFk8
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:CB:01:17&stream=1917721&extension=ts&play_token=nozvxTKA10
+
+
+#EXTINF:-1  tvg-name="VPN CANADA", VPN CANADA Scad. Dicembre 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:D1:04:78&stream=920093&extension=ts&play_token=BQxF8m5TwI
+
+#EXTINF:-1  tvg-name="Dazn1 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Bar
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:D1:04:78&stream=699229&extension=ts&play_token=OydbeDIsZ3
+
+#EXTINF:-1  tvg-name="Dazn2 Bar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Bar
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:D1:04:78&stream=699226&extension=ts&play_token=nKjBEbHnZy
+
+#EXTINF:-1  tvg-name="Dazn1 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 1 Web
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:D1:04:78&stream=920074&extension=ts&play_token=4kZofPGVLG
+
+#EXTINF:-1  tvg-name="Dazn2 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 2 Web
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:D1:04:78&stream=920071&extension=ts&play_token=UKTCrh5J6O
+
+#EXTINF:-1  tvg-name="Dazn3 Web"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" , Dazn 3 Web
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:D1:04:78&stream=920068&extension=ts&play_token=1BH2tRV4pO
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:D1:04:78&stream=692391&extension=ts&play_token=AfdCXqPZKW
+
+#EXTINF:-1  tvg-name="Sky sport Arena" tvg-logo="https://i.imgur.com/4OHGR5Q.png" , Sky sport Arena
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:D1:04:78&stream=692434&extension=ts&play_token=U3ZSxxVwJ8
+
+#EXTINF:-1  tvg-name="Sky Sport Max" tvg-logo="https://i.imgur.com/KbTWuuT.png" , Sky sport Max
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:D1:04:78&stream=692424&extension=ts&play_token=QEu9WVBec5
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:D1:04:78&stream=692415&extension=ts&play_token=mhhbkf54yp
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:D1:04:78&stream=692412&extension=ts&play_token=36hs1Qv3K3
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:D1:04:78&stream=692409&extension=ts&play_token=LyPLzd788x
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:D1:04:78&stream=692406&extension=ts&play_token=CjInJcfOZP
+
+#EXTINF:-1  tvg-name="Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" , Prime
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:D1:04:78&stream=699223&extension=ts&play_token=1itW8xVYGh
+
+
+#EXTINF:-1  tvg-name="VPN CANADA", VPN CANADA Scad. Dicembre 
+http://
+
+
+#EXTINF:-1  tvg-name="Dazn1 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DAZN_Channel.svg/1348px-DAZN_Channel.svg.png?20210827140338" , Dazn 1 Channel 
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:9E&stream=1917692&extension=ts&play_token=qUK0xuLDJF
+
+#EXTINF:-1  tvg-name="Sky Sport 1"  tvg-logo="https://i.imgur.com/PwTDUcY.png" , Sky Sport 1
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:9E&stream=1917704&extension=ts&play_token=PVxlugPKzC
+
+#EXTINF:-1  tvg-name="Sky sport Arena" tvg-logo="https://i.imgur.com/4OHGR5Q.png" , Sky sport Arena
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:9E&stream=1917714&extension=ts&play_token=zkrEINCKVk
+
+#EXTINF:-1  tvg-name="Sky Sport Max" tvg-logo="https://i.imgur.com/KbTWuuT.png" , Sky sport Max
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:9E&stream=1917708&extension=ts&play_token=qyhOEBXAQo
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-logo="https://i.imgur.com/i39nQQT.png" , Sky Sport Calcio 
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:9E&stream=1917712&extension=ts&play_token=rMFIhRiJKX
+
+#EXTINF:-1  tvg-name="Sky Calcio 1" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 1
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:9E&stream=1917723&extension=ts&play_token=oY9oVZuB3B
+
+#EXTINF:-1  tvg-name="Sky Calcio 2" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 2
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:9E&stream=1917722&extension=ts&play_token=qtKBloY5Qo
+
+#EXTINF:-1  tvg-name="Sky Calcio 3" tvg-logo="https://i.imgur.com/nWKw9H4.png" , Sky Calcio 3
+http://tv-ks.top:80/play/live.php?mac=00:1A:79:B6:C8:9E&stream=1917721&extension=ts&play_token=QqvvaXZsE9
