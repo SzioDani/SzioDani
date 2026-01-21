@@ -1,0 +1,1001 @@
+#EXTM3U
+
+
+#EXTINF:-1  tvg-name="VPN CANADA ðŸ‡¨ðŸ‡¦" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN CANADA ðŸ‡¨ðŸ‡¦ Sc. Luglio 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=604051&extension=ts&play_token=um7G1LeC4F
+#EXTINF:-1  tvg-name="Sky Dazn Bar" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/G86l7Q3.png" , Sky Dazn Bar
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601793&extension=ts&play_token=kTvnVLH2RX
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=603941&extension=ts&play_token=vGUeSMK6zf
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=603938&extension=ts&play_token=Rm6xK4BnaU
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601791&extension=ts&play_token=6yKGh5frZz
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601790&extension=ts&play_token=I7PYXpzULi
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601789&extension=ts&play_token=2Y80HhJpT9
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601788&extension=ts&play_token=lbJV7LB31K
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601787&extension=ts&play_token=ga4ETFWojo
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601806&extension=ts&play_token=qFJosZWLlz
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena 
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601849&extension=ts&play_token=1x8KlrWcsq
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601839&extension=ts&play_token=N1rd7q36XJ
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601836&extension=ts&play_token=fbava21hPy
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601842&extension=ts&play_token=DhI3YM43VD
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601831&extension=ts&play_token=p7PLgIL9dI
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601827&extension=ts&play_token=fwr0qfyOdO
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601824&extension=ts&play_token=SpFyXvvSkt
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601821&extension=ts&play_token=4Wkm5oMZ5b
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601818&extension=ts&play_token=snrYRc6H0C
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=601815&extension=ts&play_token=UMr1VerY3Z
+#EXTINF:-1  tvg-name="Prime" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:F6:1E:C6&stream=603935&extension=ts&play_token=BEATW03E6Q
+
+#EXTINF:-1  tvg-name="  VPN CANADA ðŸ‡¨ðŸ‡¦" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN CANADA ðŸ‡¨ðŸ‡¦ Sc. Settembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=604050&extension=ts&play_token=1AU6BlmrF3&sn2=
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601793&extension=ts&play_token=QXSRhl12xC&sn2=
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601791&extension=ts&play_token=HL0almXOo0&sn2=
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601790&extension=ts&play_token=eM3QnLny8i&sn2=
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601789&extension=ts&play_token=hmsRG1PY2E&sn2=
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601788&extension=ts&play_token=4BdfothdzK
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601787&extension=ts&play_token=ZIht33VBFc
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601806&extension=ts&play_token=Sz1nCag2Z8&sn2=
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601849&extension=ts&play_token=o52ShTrB3B
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601839&extension=ts&play_token=7s0Ks0LS9f
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601836&extension=ts&play_token=wvPvaoldOP
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601842&extension=ts&play_token=wzF9UWISjK
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601821&extension=ts&play_token=y5MwqbFKwF&sn2=
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601827&extension=ts&play_token=hrm4PF7vMw&sn2=
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601824&extension=ts&play_token=sv61KxSRjW&sn2=
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601821&extension=ts&play_token=y5MwqbFKwF&sn2=
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601818&extension=ts&play_token=uq5y2yKuF6
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=601815&extension=ts&play_token=YVxoasRIGk
+#EXTINF:-1  tvg-name="Prime" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:78:F0:38&stream=603935&extension=ts&play_token=ro9QqoVt0i&sn2=
+
+#EXTINF:-1  tvg-name="VPN OLANDA ðŸ‡³ðŸ‡±" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN OLANDA ðŸ‡³ðŸ‡± Sc. Giugno 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=604050&extension=ts&play_token=Vjfy076w6k
+#EXTINF:-1  tvg-name="Sky Dazn Bar" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/G86l7Q3.png" , Sky Dazn Bar 
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601793&extension=ts&play_token=9mXQEaXbvz
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=603941&extension=ts&play_token=61aqA6vvWb
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN OLANDA ðŸ‡³ðŸ‡± " tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=603938&extension=ts&play_token=duj9imENhS
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601791&extension=ts&play_token=lIzXhkGmnl
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601790&extension=ts&play_token=d5S4hbxogv
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601789&extension=ts&play_token=EWlrM0QBbe
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601788&extension=ts&play_token=KOu6eQ8DrS
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601787&extension=ts&play_token=aMn4E4AyJt
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601806&extension=ts&play_token=Z8JOQQW4fD
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601849&extension=ts&play_token=ZMMAHBXSUE
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601839&extension=ts&play_token=ypPI7nTgfA
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601836&extension=ts&play_token=azEls23hIb
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601842&extension=ts&play_token=ys1l8H3xqF
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601830&extension=ts&play_token=56IFe2KqgR
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601827&extension=ts&play_token=nn12yWKJBQ
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601824&extension=ts&play_token=oU6F5KFdZX
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601821&extension=ts&play_token=O8owTfRhSF
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601818&extension=ts&play_token=AlzPB6twjd
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=601815&extension=ts&play_token=tkpCrIA4nG
+#EXTINF:-1  tvg-name="Prime" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:04:3F:C6&stream=604050&extension=ts&play_token=Vjfy076w6k
+
+#EXTINF:-1  tvg-name="VPN CANADA ðŸ‡¨ðŸ‡¦" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN CANADA ðŸ‡¨ðŸ‡¦ Sc. Maggio 
+http://
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://xc.tvset.top:80/live/elena_gharb_bedroom/2Bg5Af8O/244857.ts
+#EXTINF:-1  tvg-name="Sky Dazn Bar" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/G86l7Q3.png" , Sky Dazn Bar
+http://xc.tvset.top:80/live/elena_gharb_bedroom/2Bg5Af8O/163656.ts
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://xc.tvset.top:80/live/elena_gharb_bedroom/2Bg5Af8O/244876.ts
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://xc.tvset.top:80/live/elena_gharb_bedroom/2Bg5Af8O/244877.ts
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/5661
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/5662
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://xc.tvset.top:80/live/elena_gharb_bedroom/2Bg5Af8O/163670.ts
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://xc.tvset.top:80/live/elena_gharb_bedroom/2Bg5Af8O/163671.ts
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://xc.tvset.top:80/live/elena_gharb_bedroom/2Bg5Af8O/163672.ts
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/1960
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://xc.tvset.top:80/live/elena_gharb_bedroom/2Bg5Af8O/271732.ts
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://xc.tvset.top:80/live/elena_gharb_bedroom/2Bg5Af8O/271733.ts
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://xc.tvset.top:80/live/elena_gharb_bedroom/2Bg5Af8O/271727.ts
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://xc.tvset.top:80/live/elena_gharb_bedroom/2Bg5Af8O/271724.ts
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/189257
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/1991
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/1993
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://xc.tvset.top:80/elena_gharb_bedroom/2Bg5Af8O/1995
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://xc.tvset.top:80/live/elena_gharb_bedroom/2Bg5Af8O/271746.ts
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://xc.tvset.top:80/live/elena_gharb_bedroom/2Bg5Af8O/271747.ts
+
+#EXTINF:-1  tvg-name="VPN SVEZIA ðŸ‡¸ðŸ‡ª" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN  SVEZIA  Sc. Aprile 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=351700&extension=ts&play_token=UdZjSUI6Z5 
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=287859&extension=ts&play_token=pbziV299tg
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=287862&extension=ts&play_token=OaS5ZFn9E8
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=351747&extension=ts&play_token=32uEMcJsKj
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=351745&extension=ts&play_token=ByIl2fE
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=351743&extension=ts&play_token=dnD5itpezB
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=351741&extension=ts&play_token=2wRPusLy8Q
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=351739&extension=ts&play_token=JY5WuLwugc
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=285258&extension=ts&play_token=pRCgUirQJ4
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=285215&extension=ts&play_token=Stna16cYWJ
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=707915&extension=ts&play_token=MFvCWavQ70
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=285228&extension=ts&play_token=HEkMqbHT1T
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=285222&extension=ts&play_token=zdg1Rv9CtQ
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=285234&extension=ts&play_token=7YwsQw40v5
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=285237&extension=ts&play_token=vyoCsEwJIc
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=285240&extension=ts&play_token=6kmtRDl8mG
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=285243&extension=ts&play_token=P7fDu3SpnP
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=285246&extension=ts&play_token=MSBy704vtK
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=285249&extension=ts&play_token=WkRJ6DaY4t
+#EXTINF:-1  tvg-name="Prime" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:c2:e1:77&stream=287865&extension=ts&play_token=TNm243i302
+
+#EXTINF:-1  tvg-name="VPN SVEZIA ðŸ‡¸ðŸ‡ª" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN SVEZIA ðŸ‡¸ðŸ‡ª Sc. Aprile 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=351700&extension=ts&play_token=THqID2kQVL
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=287859&extension=ts&play_token=GnKOatvZqW
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=287862&extension=ts&play_token=lSCBlNo8xI
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=351747&extension=ts&play_token=XwmpnonDiN
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=351745&extension=ts&play_token=HiC3xByOsD
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=351743&extension=ts&play_token=JsrJJjtEBT
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=351741&extension=ts&play_token=eQMpacgOjI
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=351739&extension=ts&play_token=VqM4PMAhKa
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=285258&extension=ts&play_token=gM3UEcEBkn
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=285215&extension=ts&play_token=J5PKncmx7h
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=707915&extension=ts&play_token=OZRGD4J1JT
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=285228&extension=ts&play_token=fSisfSEhsg
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=285222&extension=ts&play_token=3YLsy7VLdn
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=285234&extension=ts&play_token=HfYNqqOQEJ
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=285237&extension=ts&play_token=jpzZrIwvd2
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=285240&extension=ts&play_token=9NNx5j1m0M
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=285243&extension=ts&play_token=0nR0Pa5OCH
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=285246&extension=ts&play_token=VQrnWYmO9m
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=285249&extension=ts&play_token=Zf3ke5rYRS
+#EXTINF:-1  tvg-name="Prime" group-title="VPN SVEZIA ðŸ‡¸ðŸ‡ª" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:B8:8B:7C&stream=287865&extension=ts&play_token=lrMQhc96SY
+
+#EXTINF:-1  tvg-name="VPN FRANCIA ðŸ‡«ðŸ‡·" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN FRANCIA ðŸ‡«ðŸ‡· Sc. dicembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=920093&extension=ts&play_token=VvSZdpE4je
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=699229&extension=ts&play_token=IKsuakSZwy
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=699226&extension=ts&play_token=G4pHEbzLGv
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=920074&extension=ts&play_token=qZS69kk5cn
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=920071&extension=ts&play_token=8xrtJauZR8
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=920068&extension=ts&play_token=GoFCAeSzwn
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=920065&extension=ts&play_token=NskxPTQonD
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=920062&extension=ts&play_token=2HC0EE3uYB
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692391&extension=ts&play_token=dUOdq1qTlY
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692434&extension=ts&play_token=hK5l3UzKLV
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692424&extension=ts&play_token=SHlbd40atu
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692421&extension=ts&play_token=D1nftlOkvJ
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692427&extension=ts&play_token=6cbdBXBwgU
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692415&extension=ts&play_token=4TH29bvGSl
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692412&extension=ts&play_token=m51r4d7PXo
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692409&extension=ts&play_token=CmUGhI93uz
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692406&extension=ts&play_token=gW50Nw3I4b
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692403&extension=ts&play_token=kDkB1BgOmf
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=692400&extension=ts&play_token=LkvlghnjzS
+#EXTINF:-1  tvg-name="Prime" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:0C:73:55&stream=699223&extension=ts&play_token=pzYYv8BqeD
+
+#EXTINF:-1  tvg-name="VPN FRANCIA ðŸ‡«ðŸ‡·" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN FRANCIA ðŸ‡«ðŸ‡· Sc. Novembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=920093&extension=ts&play_token=IUcqUI1boc
+#EXTINF:-1  tvg-name="Dazn Bar 1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=699229&extension=ts&play_token=7yiljHFWmR
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=699226&extension=ts&play_token=P1MnLjsnkV
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=920074&extension=ts&play_token=m2TZD7nrqg
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=920071&extension=ts&play_token=l2qDWGze4u
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=920068&extension=ts&play_token=P4a9SI1jof
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=920065&extension=ts&play_token=gtl4gl1dSH
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=920062&extension=ts&play_token=6dzs2MerXn
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692391&extension=ts&play_token=GDjWTZNLww
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692434&extension=ts&play_token=WzcuzD5OPZ
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692424&extension=ts&play_token=hFE5UyW6lD
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692421&extension=ts&play_token=MhF8hZpezi
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692427&extension=ts&play_token=kFd1vramZT
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692415&extension=ts&play_token=xLR6AgsuyS
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692412&extension=ts&play_token=sfQPyZ93UY
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692409&extension=ts&play_token=autttGTzlC
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692406&extension=ts&play_token=rBrDRMDn8l
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="1VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692403&extension=ts&play_token=IWJcALhECa
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=692400&extension=ts&play_token=6wiw6njpc5
+#EXTINF:-1  tvg-name="Prime" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:BF:DF:8D&stream=699223&extension=ts&play_token=IaG2fbEZ9Y
+
+#EXTINF:-1  tvg-name="VPN FRANCIA ðŸ‡«ðŸ‡·" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN FRANCIA ðŸ‡«ðŸ‡· Sc. Novembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917692&extension=ts&play_token=eYxJFxU5Su
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917704&extension=ts&play_token=hus2owIvml
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917714&extension=ts&play_token=lyrK5UMdUZ
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917708&extension=ts&play_token=zKmuXXdn9B
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917706&extension=ts&play_token=Q0dxMvnWk1
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917711&extension=ts&play_token=SJT4glVCK2
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917712&extension=ts&play_token=I10huUOtIE
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917723&extension=ts&play_token=eEejkSlX3S
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917722&extension=ts&play_token=u5BcS3jfM8
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917721&extension=ts&play_token=DMdYhbJctP
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917720&extension=ts&play_token=KXqCDJkOlx
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:2A:9B:CB&stream=1917719&extension=ts&play_token=2yPL6DBqFz
+
+#EXTINF:-1  tvg-name="VPN FRANCIA ðŸ‡«ðŸ‡·" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN FRANCIA ðŸ‡«ðŸ‡· Sc. Dicembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=920093&extension=ts&play_token=LQq4BVeEg1
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=699229&extension=ts&play_token=e7j70djZbK
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=699226&extension=ts&play_token=8BWiRgUAWP
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=920074&extension=ts&play_token=RB9CmWT7uB
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=920071&extension=ts&play_token=63PLo77CLe
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=920068&extension=ts&play_token=5jcEDywTKW
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=920065&extension=ts&play_token=mEsg3PBlXJ
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=920062&extension=ts&play_token=YsF5wYnkJB
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=692391&extension=ts&play_token=Fbi4B0pUxS
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=692434&extension=ts&play_token=IKkKl5pCoQ
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=692424&extension=ts&play_token=Z9PjQ7wAxG
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=692421&extension=ts&play_token=jXGaWmtnvj
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=692427&extension=ts&play_token=FCKvHLncn8
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=692415&extension=ts&play_token=v5qSC6UIgp
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=692412&extension=ts&play_token=qmPHyQzhmD
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=692409&extension=ts&play_token=1uXdpuGXdY
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=692406&extension=ts&play_token=QfsfTC0i1S
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=692403&extension=ts&play_token=m1T7jewDaa
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=692400&extension=ts&play_token=7mg1igkpdC
+#EXTINF:-1  tvg-name="Prime" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:6D:8E:34&stream=699223&extension=ts&play_token=KhpBhfC92k
+
+#EXTINF:-1  tvg-name="VPN OLANDA ðŸ‡³ðŸ‡±" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN OLANDA ðŸ‡³ðŸ‡± Sc. Dicembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=920093&extension=ts&play_token=oERGGPRY2Q
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=699229&extension=ts&play_token=nzAEmIkflq
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=699226&extension=ts&play_token=uugMg8Fj70
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=920074&extension=ts&play_token=RyCliXKhQF
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=920071&extension=ts&play_token=SK8lWDKDPv
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=920068&extension=ts&play_token=zqIexqLpm9
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=920065&extension=ts&play_token=2mHESazg6F
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=920062&extension=ts&play_token=DJG19kgPnB
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=692391&extension=ts&play_token=hDqYEQE4ZK
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=692434&extension=ts&play_token=DuVTngd7dC
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=692424&extension=ts&play_token=X9TCHs8AU3
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=692421&extension=ts&play_token=O6IvzZdIDO
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=692427&extension=ts&play_token=a9ZbKs26Kl
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=692415&extension=ts&play_token=TpLn2C45OB
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=692412&extension=ts&play_token=oEVgqG79nG
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=692409&extension=ts&play_token=42P5EobDID
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=692406&extension=ts&play_token=cyt1yt5b96
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=692403&extension=ts&play_token=Jey9dYivZD
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=692400&extension=ts&play_token=L21n70L1fk
+#EXTINF:-1  tvg-name="Prime" group-title="VPN OLANDA ðŸ‡³ðŸ‡±" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://line.proclient4.com:80/play/live.php?mac=00:1A:79:8D:0C:3A&stream=699223&extension=ts&play_token=VEfaQnf5FE
+
+#EXTINF:-1  tvg-name="VPN FRANCIA ðŸ‡«ðŸ‡·" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN FRANCIA ðŸ‡«ðŸ‡· Sc. Novembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=920093&extension=ts&play_token=DEHCDJMAXi
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=699229&extension=ts&play_token=RgYG1N4VhS
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=699226&extension=ts&play_token=K7yxbm4WWA
+#EXTINF:-1  tvg-name="Dazn Web 1"  group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=920074&extension=ts&play_token=we5IlmkH0m
+#EXTINF:-1  tvg-name="Dazn Web 2"  group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=920071&extension=ts&play_token=pgP9AhqaAS
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=920068&extension=ts&play_token=PrDeNvRgO3
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=920065&extension=ts&play_token=5rTjp9XCCj
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=920062&extension=ts&play_token=nyQEvlouvV
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692391&extension=ts&play_token=8JPn0svT8
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692434&extension=ts&play_token=bMDM1t1hI7
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692424&extension=ts&play_token=NbIZNrMjvC
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692421&extension=ts&play_token=vMdQ0XmRCr
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692427&extension=ts&play_token=XzMCJLvwKm
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692415&extension=ts&play_token=TCqa65jIo0
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692412&extension=ts&play_token=UoY21yxQT7
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692409&extension=ts&play_token=vFY5sfeuwC
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692406&extension=ts&play_token=uVv9s8oyJz
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692403&extension=ts&play_token=3Oqsrq6X4U
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=692400&extension=ts&play_token=YIphLSx5cR
+#EXTINF:-1  tvg-name="Prime" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FB:2E:06&stream=699223&extension=ts&play_token=MeuRAP54Yf
+
+#EXTINF:-1  tvg-name="  VPN CANADA ðŸ‡¨ðŸ‡¦" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN CANADA ðŸ‡¨ðŸ‡¦ Sc.Dicembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=920093&extension=ts&play_token=mpI34ombi6
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=699229&extension=ts&play_token=gXSkOEZBPu
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=699226&extension=ts&play_token=RG4J49vxiP
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=920074&extension=ts&play_token=IZNHM7H1tu
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=920071&extension=ts&play_token=7KpPh05Haj
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=920068&extension=ts&play_token=jKrSWw8SOA
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=920065&extension=ts&play_token=qu2SkbvMSL
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=920062&extension=ts&play_token=GasBM8QCDq
+#EXTINF:-1  tvg-name="Sky Sport Uno"  group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=692391&extension=ts&play_token=3UczLwaEZU
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=692434&extension=ts&play_token=r2vCFqRcIc
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=692424&extension=ts&play_token=QCCtCsSZ2X
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=692421&extension=ts&play_token=RDpuUxfHgK
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=692427&extension=ts&play_token=RWoXblfNsV
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=692415&extension=ts&play_token=c3jGOWsKbT
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=692412&extension=ts&play_token=iKGjjOYixd
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=692409&extension=ts&play_token=obQ0X8jN49
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=692406&extension=ts&play_token=e6bzihRnwk
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=692403&extension=ts&play_token=W6pwWvS9DN
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=692400&extension=ts&play_token=l2b6gvPByx
+#EXTINF:-1  tvg-name="Prime" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:D4:05:2B&stream=699223&extension=ts&play_token=pu62ysCO7v
+
+#EXTINF:-1  tvg-name="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN INGHILTERRA ðŸ‡¬ðŸ‡§ Sc. Novembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=920093&extension=ts&play_token=EuM1Ts8ANl
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=699229&extension=ts&play_token=p7FfUth3f5
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=699226&extension=ts&play_token=a2Kdk39odz
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=920074&extension=ts&play_token=NhSdRUqOvg
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=920071&extension=ts&play_token=9liaRML5wj
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=920068&extension=ts&play_token=euZ4mJ9XHc
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=920065&extension=ts&play_token=KDT7PdTUSQ
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=920062&extension=ts&play_token=bjv5Zeuk2f
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=692391&extension=ts&play_token=KJAYp4T2LL
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=692434&extension=ts&play_token=9JI4hi8zm1
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=692424&extension=ts&play_token=6X6gPncl7Z
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=692421&extension=ts&play_token=oze7AF6BNK
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=692427&extension=ts&play_token=cLN53eOc3a
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=692415&extension=ts&play_token=wkY3StkGFz
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=692412&extension=ts&play_token=16g7G4tYhZ
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=692409&extension=ts&play_token=hL2Rc31wRz
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=692406&extension=ts&play_token=IDy9cJcZGn
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=692403&extension=ts&play_token=1M9piuBBro
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=692400&extension=ts&play_token=ItFurCiIn2
+#EXTINF:-1  tvg-name="Prime" group-title="VPN INGHILTERRA ðŸ‡¬ðŸ‡§" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:24:80:EA&stream=699223&extension=ts&play_token=xcub39m1DE
+
+#EXTINF:-1  tvg-name="VPN FRANCIA ðŸ‡«ðŸ‡·" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN FRANCIA ðŸ‡«ðŸ‡· Sc. Novembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=920093&extension=ts&play_token=6SPdeOVzvw
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=699229&extension=ts&play_token=5RNbPxOQgm
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=699226&extension=ts&play_token=bzDglGj0oU
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=920074&extension=ts&play_token=EOON2qWTTv
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=920071&extension=ts&play_token=KCYUGEMvp7
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=920068&extension=ts&play_token=CHEa6QCC2J
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=920065&extension=ts&play_token=j8JjsoyqL2
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=920062&extension=ts&play_token=higb5qv2q2
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692391&extension=ts&play_token=BpXwWryAIL
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692434&extension=ts&play_token=UHuAij9xNi
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692424&extension=ts&play_token=l8L36ve0iZ
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692421&extension=ts&play_token=9BxEQpdzNf
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692427&extension=ts&play_token=gL0f9WMeCY
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692412&extension=ts&play_token=aSH6Bwc5Fm
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692409&extension=ts&play_token=xQgDQnR49k
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692409&extension=ts&play_token=xQgDQnR49k
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692406&extension=ts&play_token=ypjjXOf1mj
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692403&extension=ts&play_token=oZSdVtnpPV
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=692400&extension=ts&play_token=wRrnW25VhB
+#EXTINF:-1  tvg-name="Prime" group-title="VPN FRANCIA ðŸ‡«ðŸ‡·" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:C5:47:78&stream=699223&extension=ts&play_token=xdD6U3nwib
+
+#EXTINF:-1  tvg-name="VPN USA ðŸ‡ºðŸ‡¸" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN USA ðŸ‡ºðŸ‡¸ 33 Sc. Aprile 27
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=920093&extension=ts&play_token=2hydu1pu4I
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=699229&extension=ts&play_token=xH9179MyF2
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=699226&extension=ts&play_token=UbsJ4vv0Bh
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=920074&extension=ts&play_token=vQk3Z7urzt
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=920071&extension=ts&play_token=sHqdPNcXJR
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=920068&extension=ts&play_token=StlEmhapoj
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=920065&extension=ts&play_token=6SZJLW75oI
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=920062&extension=ts&play_token=Cix2G8Yb5C
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692391&extension=ts&play_token=c46HCTb3aG
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692434&extension=ts&play_token=Z9UGsa4wGu
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692424&extension=ts&play_token=i2BfefaFsG
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692421&extension=ts&play_token=DpSMpHvunX
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692427&extension=ts&play_token=TxjjjpbLKM
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692415&extension=ts&play_token=DNLxZ1PztV
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692412&extension=ts&play_token=hg0sPninZj
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692409&extension=ts&play_token=D8WONYF93j
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692406&extension=ts&play_token=GbjcL0U299
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692403&extension=ts&play_token=CAvuqPRLWh
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=692400&extension=ts&play_token=l7FgRMLROB
+#EXTINF:-1  tvg-name="Prime" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:60:C3&stream=699223&extension=ts&play_token=2i296EwkL5
+
+#EXTINF:-1  tvg-name="VPN USA ðŸ‡ºðŸ‡¸" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN USA ðŸ‡ºðŸ‡¸ 33 Sc. Marzo 27
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=920093&extension=ts&play_token=OEllWYmaUS
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=699229&extension=ts&play_token=kGUUqzE3Pt
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=699226&extension=ts&play_token=Naca2Y1ZSb
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=920074&extension=ts&play_token=dyfwJSuEAX
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=920071&extension=ts&play_token=yMHqioif67
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=920068&extension=ts&play_token=uojQCgZJtD
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=920065&extension=ts&play_token=iqfONdrPLY
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=920062&extension=ts&play_token=sN9LLNhGxT
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692391&extension=ts&play_token=Rw9YUc3zS6
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692434&extension=ts&play_token=0QTa5U417r
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692424&extension=ts&play_token=gaG9PteeeD
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692421&extension=ts&play_token=4aDB3Ad3oT
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692427&extension=ts&play_token=wWD1El9kRy
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692415&extension=ts&play_token=ORJy0DKyxs
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692412&extension=ts&play_token=vbsGTbSSow
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692409&extension=ts&play_token=w7wbHHGnbp
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692406&extension=ts&play_token=QvYh2LDzsY
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692403&extension=ts&play_token=kP9Bn8u3a8
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=692400&extension=ts&play_token=ygrlhLhyMq
+#EXTINF:-1  tvg-name="Prime" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:19:22:49&stream=699223&extension=ts&play_token=YpzgoNCU8l
+
+#EXTINF:-1  tvg-name="VPN USA ðŸ‡ºðŸ‡¸" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN USA ðŸ‡ºðŸ‡¸ 33 Sc. Dicembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=920093&extension=ts&play_token=4JQtOJCGlo
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=699229&extension=ts&play_token=nEqwm5j73O
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=699226&extension=ts&play_token=uLH2o32KUC
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=920074&extension=ts&play_token=Tt8VhZEwXe
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=920071&extension=ts&play_token=mUr7S9j3sj
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=920068&extension=ts&play_token=Fwpvr2gbq7
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=920065&extension=ts&play_token=giI6KE6Baf
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=920062&extension=ts&play_token=TA00R9Sd5K
+#EXTINF:-1  tvg-name="Sky Sport Uno"  group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692391&extension=ts&play_token=DFC3PNbxSF
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692434&extension=ts&play_token=YcriARjp7X
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692424&extension=ts&play_token=UvCX0litee
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692421&extension=ts&play_token=5jUvGJxfOC
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692427&extension=ts&play_token=bIVVzPvWXf
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692415&extension=ts&play_token=AToDFDU5l7
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692412&extension=ts&play_token=g8mQIi1TWt
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692409&extension=ts&play_token=mT0umrphjl
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692406&extension=ts&play_token=iuOsO082GD
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692403&extension=ts&play_token=CD2jNxm1yk
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=692400&extension=ts&play_token=vQpGWePej0
+#EXTINF:-1  tvg-name="Prime" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:B5:5E:DF&stream=699223&extension=ts&play_token=5qmaYQxHxu
+
+#EXTINF:-1  tvg-name="VPN GERMANIAðŸ‡©ðŸ‡ª" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN GERMANIAðŸ‡©ðŸ‡ª Sc. Dicembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=920093&extension=ts&play_token=v2a78UL483
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=699229&extension=ts&play_token=aOegko5QGi
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=699226&extension=ts&play_token=pa5NReAqis
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=920074&extension=ts&play_token=hmQLyvpUua
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=920071&extension=ts&play_token=GBbqKFuZtk
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=920068&extension=ts&play_token=a37X9Y5xu5
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=920065&extension=ts&play_token=FiMh3bSZ4S
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=920062&extension=ts&play_token=r8GJBRrL9k
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=692391&extension=ts&play_token=rW7bLzUQgC
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=692434&extension=ts&play_token=XA8LOxVshB
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=692424&extension=ts&play_token=STt2PUlDji
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=692421&extension=ts&play_token=wyIptOiMA4
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=692427&extension=ts&play_token=V4DhXjLalG
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª"tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=692415&extension=ts&play_token=kttkPd8jlq
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=692412&extension=ts&play_token=6G813NIsQk
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=692409&extension=ts&play_token=YINTMHjM1p
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=692406&extension=ts&play_token=dagDmPCxIS
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=692403&extension=ts&play_token=Utz7s6JXj1
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=692400&extension=ts&play_token=WbY0a4JtZt
+#EXTINF:-1  tvg-name="Prime" group-title="VPN GERMANIAðŸ‡©ðŸ‡ª" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:18:1F:4C&stream=699223&extension=ts&play_token=KvdcDoU8eN
+
+#EXTINF:-1  tvg-name="VPN CANADA ðŸ‡¨ðŸ‡¦" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN CANADA ðŸ‡¨ðŸ‡¦ Sc. Agosto 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=604050&extension=ts&play_token=6lqYd4nNc2
+#EXTINF:-1  tvg-name=" Sky Dazn Bar" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601793&extension=ts&play_token=VZv8xkf21B
+#EXTINF:-1  tvg-name=" Sky Dazn Bar 1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=603941&extension=ts&play_token=l6cqG5o1Bb
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=603938&extension=ts&play_token=dWeIxKUGUm
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601791&extension=ts&play_token=9N8nOZPBt5
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601790&extension=ts&play_token=wYMOA7tqAr
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601789&extension=ts&play_token=DQjd8aO9x6
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601788&extension=ts&play_token=ZEsvPCH8JB
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601787&extension=ts&play_token=KnorPPaAwL
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601806&extension=ts&play_token=QzYaI7VDAZ
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601849&extension=ts&play_token=PaT0Q1QIQi
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601839&extension=ts&play_token=sniV6pNLze
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601836&extension=ts&play_token=X5hteOQh9M
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601842&extension=ts&play_token=IOKNtGLQHj
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601830&extension=ts&play_token=0KhTS89BKE
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601827&extension=ts&play_token=IHNbFEKetW
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601824&extension=ts&play_token=JItFi4gA4x
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601821&extension=ts&play_token=d2czJcmXwX
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601818&extension=ts&play_token=WPtKmeBqFC
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=601815&extension=ts&play_token=aZGeSvsiTf
+#EXTINF:-1  tvg-name="Prime" group-title="VPN CANADA ðŸ‡¨ðŸ‡¦" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://10431-plan.ott-cdn.me:80/play/live.php?mac=00:1A:79:A0:43:58&stream=603935&extension=ts&play_token=J1GPFVAVJV
+
+#EXTINF:-1  tvg-name=""VPN USA ðŸ‡ºðŸ‡¸" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN USA ðŸ‡ºðŸ‡¸ 33 Sc. Dicembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=920093&extension=ts&play_token=DKdyOf4qoW
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=699229&extension=ts&play_token=NFHLZYEJzM
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=699226&extension=ts&play_token=78NkmgQRgN
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=920074&extension=ts&play_token=AVrovQwVp6
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=920071&extension=ts&play_token=6mesyDRC9J
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=920068&extension=ts&play_token=Vo2Ndkb7qH
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=920065&extension=ts&play_token=lE5sk9x3X0
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=920062&extension=ts&play_token=gZ2mDwk5cQ
+#EXTINF:-1  tvg-name="Sky Sport Uno"  group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=692391&extension=ts&play_token=0ddwwmGS6I
+#EXTINF:-1  tvg-name="Sky Sport Arena" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky Sport Arena
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=692434&extension=ts&play_token=PhucuXWW7j
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=692424&extension=ts&play_token=HoQe6L4sST
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=692421&extension=ts&play_token=AZRwGEMN6l
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=692427&extension=ts&play_token=gRvn3i9QKG
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=692415&extension=ts&play_token=bgSoU0C7XY
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=692412&extension=ts&play_token=A6vM56vyfy
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=692409&extension=ts&play_token=rJ6fmNZ0xS
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=692406&extension=ts&play_token=pKoBufpJOL
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=692403&extension=ts&play_token=PglMMNPWBl
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=692400&extension=ts&play_token=WKpKHUFsqq
+#EXTINF:-1  tvg-name="Prime" group-title="VPN USA ðŸ‡ºðŸ‡¸" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:17:32:6E&stream=699223&extension=ts&play_token=MkVMrq5I8Y
+
+
+#EXTINF:-1  tvg-name="VPN CANADA ðŸ‡¨ðŸ‡¦" group-title="VPN " tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN " tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN " tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN " tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN " tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN " tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN " tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN " tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN " tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN " tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+
+#EXTINF:-1  tvg-name="Sky sport Arena" group-title="VPN " tvg-logo="https://i.imgur.com/RpekQri.png" , Sky sport Arena
+
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN " tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN " tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN " tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN " tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN " tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN " tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN " tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN " tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN " tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+
+#EXTINF:-1  tvg-name="Prime" group-title="VPN " tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+
+
+#EXTINF:-1  tvg-name="VPN " group-title="VPN " tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN " tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN " tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN " tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN " tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN " tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN " tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN " tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN " tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN " tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+
+#EXTINF:-1  tvg-name="Sky sport Arena" group-title="VPN " tvg-logo="https://i.imgur.com/RpekQri.png" , Sky sport Arena
+
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN " tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN " tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN " tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN " tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN " tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN " tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN " tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN " tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN " tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+
+#EXTINF:-1  tvg-name="Prime" group-title="VPN " tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
