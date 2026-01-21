@@ -999,3 +999,23 @@ http://
 #EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN " tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
 
 #EXTINF:-1  tvg-name="Prime" group-title="VPN " tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+
+#EXTINF:-1  tvg-name="VPN Olanda 🇳🇱 Olanda " group-title="VPN Olanda 🇳🇱 " tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN Olanda 🇳🇱 Sc. Novembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN Olanda 🇳🇱 " tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://xp1.tv:80/play/live.php?mac=00:1A:79:BA:5D:B3&stream=61175&extension=ts&play_token=DdSLJnBuJv
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN Olanda 🇳🇱 " tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN Olanda 🇳🇱 " tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://xp1.tv:80/play/live.php?mac=00:1A:79:BA:5D:B3&stream=38187&extension=ts&play_token=SDHLjNICd6
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN Olanda 🇳🇱 " tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://xp1.tv:80/play/live.php?mac=00:1A:79:BA:5D:B3&stream=4395&extension=ts&play_token=Oxee2ls3xa
+#EXTINF:-1  tvg-name="Sky sport Arena" group-title="VPN Olanda 🇳🇱 " tvg-logo="https://i.imgur.com/RpekQri.png" , Sky sport Arena
+http://xp1.tv:80/play/live.php?mac=00:1A:79:BA:5D:B3&stream=64226&extension=ts&play_token=TNHJUJbY2t
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN Olanda 🇳🇱 " tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://xp1.tv:80/play/live.php?mac=00:1A:79:BA:5D:B3&stream=64224&extension=ts&play_token=Bs0ifbV3Cx
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN Olanda 🇳🇱 " tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://xp1.tv:80/play/live.php?mac=00:1A:79:BA:5D:B3&stream=46094&extension=ts&play_token=zAMLGd0vpc
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN Olanda 🇳🇱 " tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://xp1.tv:80/play/live.php?mac=00:1A:79:BA:5D:B3&stream=31015&extension=ts&play_token=0VEowhQ1FP
+
