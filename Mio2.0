@@ -1068,3 +1068,47 @@ http://xp1.tv:80/play/live.php?mac=00:1A:79:D2:C4:C2&stream=64226&extension=ts&p
 http://xp1.tv:80/play/live.php?mac=00:1A:79:D2:C4:C2&stream=64224&extension=ts&play_token=o3UfOwAt9K
 #EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN Olanda 🇳🇱" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
 http://xp1.tv:80/play/live.php?mac=00:1A:79:D2:C4:C2&stream=46094&extension=ts&play_token=F3bez1yDjH
+
+#EXTINF:-1  tvg-name="VPN CANADA 🇨🇦 " group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN CANADA 🇨🇦 Sc. Ottobre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=604050&extension=ts&play_token=X9djALuT38
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=603941&extension=ts&play_token=h5QdKRyIVd
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=603938&extension=ts&play_token=oouEtyavJ0
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601791&extension=ts&play_token=dib3Pb5C4c
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601790&extension=ts&play_token=jcoG8QxJv4
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601789&extension=ts&play_token=V7v23NoH2w
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601788&extension=ts&play_token=vusOWABjg7
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601787&extension=ts&play_token=JIQIjzdFJu
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601806&extension=ts&play_token=LofrQ133lb
+#EXTINF:-1  tvg-name="Sky sport Arena" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/RpekQri.png" , Sky sport Arena
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601849&extension=ts&play_token=v8lqgKIDuD
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601839&extension=ts&play_token=UryFvYUkQM
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601836&extension=ts&play_token=kKbiTb06CB
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601842&extension=ts&play_token=Qe9d7md5uo
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601830&extension=ts&play_token=7zUgeO3gu6
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601827&extension=ts&play_token=kaz4tBsNUW
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601824&extension=ts&play_token=keFoDNSCIA
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601821&extension=ts&play_token=BFL9x8SyKt
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601818&extension=ts&play_token=W3kdrcpDAH
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601815&extension=ts&play_token=pJQi2EI3PL
+#EXTINF:-1  tvg-name="Prime" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=603935&extension=ts&play_token=dfeaXCfz89
