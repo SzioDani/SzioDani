@@ -1112,3 +1112,33 @@ http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601818&exte
 http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=601815&extension=ts&play_token=pJQi2EI3PL
 #EXTINF:-1  tvg-name="Prime" group-title="VPN CANADA 🇨🇦 " tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
 http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=603935&extension=ts&play_token=dfeaXCfz89
+
+#EXTINF:-1  tvg-name="VPN GERMANIA 🇩🇪 " group-title="VPN GERMANIA 🇩🇪 " tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN GERMANIA 🇩🇪  Sc. Novembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN GERMANIA 🇩🇪 " tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:AF:6F:82&stream=216317&extension=ts&play_token=KOFO6Gnj47
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN GERMANIA 🇩🇪 " tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:AF:6F:82&stream=42722&extension=ts&play_token=tOZjI4wekl
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN GERMANIA 🇩🇪 " tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:AF:6F:82&stream=42737&extension=ts&play_token=LsFcYv5zX8
+#EXTINF:-1  tvg-name="Sky sport Arena" group-title="VPN GERMANIA 🇩🇪 " tvg-logo="https://i.imgur.com/RpekQri.png" , Sky sport Arena
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:AF:6F:82&stream=91370&extension=ts&play_token=UCrfBu4EDf
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN GERMANIA 🇩🇪 " tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:AF:6F:82&stream=91372&extension=ts&play_token=kHszyHbo9O
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN GERMANIA 🇩🇪 " tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:AF:6F:82&stream=217801&extension=ts&play_token=924I4alWOu
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN GERMANIA 🇩🇪 " tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:AF:6F:82&stream=170765&extension=ts&play_token=gjpLjS50T2
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN GERMANIA 🇩🇪 " tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:AF:6F:82&stream=162665&extension=ts&play_token=93u2YAa7yt
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN GERMANIA 🇩🇪 " tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:AF:6F:82&stream=217808&extension=ts&play_token=o0uSXpFmKd
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN GERMANIA 🇩🇪 " tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:AF:6F:82&stream=214883&extension=ts&play_token=pcnapxeAC8
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN GERMANIA 🇩🇪 " tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:AF:6F:82&stream=217805&extension=ts&play_token=sn7zWycM8b
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN GERMANIA 🇩🇪 " tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:AF:6F:82&stream=217806&extension=ts&play_token=LQ1BlX0Ull
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN GERMANIA 🇩🇪 " tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:AF:6F:82&stream=217807&extension=ts&play_token=IZf91fkaRm
