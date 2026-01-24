@@ -1055,7 +1055,7 @@ http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:AF:6F:82&stream=217806&extensi
 #EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
 http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:AF:6F:82&stream=217807&extension=ts&play_token=IZf91fkaRm
 
-#EXTINF:-1  tvg-name="VPN GERMANIA 🇩🇪" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN GERMANIA 🇩🇪 
+#EXTINF:-1  tvg-name="VPN GERMANIA 🇩🇪" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN GERMANIA 🇩🇪  Sc. Aprile 
 http://
 
 #EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
