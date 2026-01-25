@@ -1254,3 +1254,31 @@ http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:B6:25:02&stream=1917721&ex
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:B6:25:02&stream=1917720&extension=ts&play_token=IwO5CDY3bt
 #EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:B6:25:02&stream=1917719&extension=ts&play_token=lNOW5VE3zH
+
+#EXTINF:-1  tvg-name="VPN GERMANIA 🇩🇪" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN GERMANIA 🇩🇪 SC. Dicembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:95:E5:D4&stream=1917692&extension=ts&play_token=diXqTfUOXD
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:95:E5:D4&stream=1917704&extension=ts&play_token=t7gXiDX4RR
+#EXTINF:-1  tvg-name="Sky sport Arena" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky sport Arena
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:95:E5:D4&stream=1917714&extension=ts&play_token=x1GN4kaCS6
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:95:E5:D4&stream=1917708&extension=ts&play_token=euTd2dfcmN
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:95:E5:D4&stream=1917706&extension=ts&play_token=wqKsy3qEcJ
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:95:E5:D4&stream=1917711&extension=ts&play_token=s5r83MOlSD
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:95:E5:D4&stream=1917712&extension=ts&play_token=W44jOmfc5d
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:95:E5:D4&stream=1917723&extension=ts&play_token=LmTkvEoxSY
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:95:E5:D4&stream=1917722&extension=ts&play_token=PqT8hhFfn9
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:95:E5:D4&stream=1917721&extension=ts&play_token=tmhCxKTd3J
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:95:E5:D4&stream=1917720&extension=ts&play_token=jmOdqfvOw8
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:95:E5:D4&stream=1917719&extension=ts&play_token=TlNCri9wt4
