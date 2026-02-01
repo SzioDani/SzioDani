@@ -1370,3 +1370,47 @@ http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:1B&stream=692403&extension
 http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:1B&stream=692400&extension=ts&play_token=5YN47kFjVP
 #EXTINF:-1  tvg-name="Prime" group-title="VPN USA 🇺🇸" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
 http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:1B&stream=699223&extension=ts&play_token=gWNrmWVcqK
+
+#EXTINF:-1  tvg-name="VPN INGHILTERRA 🇬🇧" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN INGHILTERRA 🇬🇧 Sc. Agosto 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=920093&extension=ts&play_token=gYbQbU8jUf
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=699229&extension=ts&play_token=006zC5hgsd
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=699226&extension=ts&play_token=0yT8FGsTeX
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=920074&extension=ts&play_token=UMFmVneHNr
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=920071&extension=ts&play_token=yDbI0MGiEf
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=920068&extension=ts&play_token=Nxnskg53m7
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=920065&extension=ts&play_token=b3i9yICucB
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=920062&extension=ts&play_token=oqyt5GU4Tr
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=692391&extension=ts&play_token=BAD5vsZxDI
+#EXTINF:-1  tvg-name="Sky sport Arena" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky sport Arena
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=692434&extension=ts&play_token=zBME751PEy
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=692424&extension=ts&play_token=agTM2hBXdn
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=692421&extension=ts&play_token=shdeJRTaPe
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=692427&extension=ts&play_token=YJpUrQzWD5
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=692415&extension=ts&play_token=LbvyCjyvNB
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=692412&extension=ts&play_token=oi5CrQjtT4
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=692409&extension=ts&play_token=kY3AjDp3OO
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=692406&extension=ts&play_token=YV8L5gWJB0
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=692403&extension=ts&play_token=oJLVKxB5jO
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=692400&extension=ts&play_token=0n7qiP4w0p
+#EXTINF:-1  tvg-name="Prime" group-title="VPN INGHILTERRA 🇬🇧" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://5frtv.site:80/play/live.php?mac=00:1A:79:B5:0F:BF&stream=699223&extension=ts&play_token=rmcBtbC3Wd
