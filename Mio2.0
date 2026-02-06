@@ -1546,3 +1546,31 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:00:3B:03&stream=692403&extens
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:00:3B:03&stream=692400&extension=ts&play_token=XHFlO7BlIO
 #EXTINF:-1  tvg-name="Prime" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:00:3B:03&stream=699223&extension=ts&play_token=X2gEfGJjAH
+
+#EXTINF:-1  tvg-name="VPN CANADA 🇨🇦" group-title="VPN CANADA 🇨🇦" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN CANADA 🇨🇦 Sc. Novembre
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN CANADA 🇨🇦" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:29:3D:24&stream=1917692&extension=ts&play_token=w8EgeRXurs
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN CANADA 🇨🇦" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:29:3D:24&stream=1917704&extension=ts&play_token=4601L9DbI5
+#EXTINF:-1  tvg-name="Sky sport Arena" group-title="VPN CANADA 🇨🇦" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky sport Arena
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:29:3D:24&stream=1917714&extension=ts&play_token=srJdvWAudo
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN CANADA 🇨🇦" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:29:3D:24&stream=1917708&extension=ts&play_token=M1UTLTCoXG
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" tvg-id="Sky.Sport.MotoGP.it" group-title="VPN CANADA 🇨🇦" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:29:3D:24&stream=1917706&extension=ts&play_token=gUfXPnDaWM
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN CANADA 🇨🇦" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:29:3D:24&stream=1917711&extension=ts&play_token=73kb3N4Dtp
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN CANADA 🇨🇦" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:29:3D:24&stream=1917712&extension=ts&play_token=wZ7ZuQ7wqx
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN CANADA 🇨🇦" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:29:3D:24&stream=1917723&extension=ts&play_token=wKCKzQT7Z0
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN CANADA 🇨🇦" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:29:3D:24&stream=1917722&extension=ts&play_token=mmr4bc1FrX
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN CANADA 🇨🇦" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:29:3D:24&stream=1917721&extension=ts&play_token=qKtTt9LgqZ
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN CANADA 🇨🇦" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:29:3D:24&stream=1917720&extension=ts&play_token=zR8O6ogkRn
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN CANADA 🇨🇦" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:29:3D:24&stream=1917719&extension=ts&play_token=c4QzxEOHKI
