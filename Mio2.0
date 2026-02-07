@@ -1734,3 +1734,31 @@ http://5frtv.site:80/play/live.php?mac=00:1A:79:8C:10:A0&stream=692403&extension
 http://5frtv.site:80/play/live.php?mac=00:1A:79:8C:10:A0&stream=692400&extension=ts&play_token=fqELQcn0nE
 #EXTINF:-1  tvg-name="Prime" group-title="VPN CANADA 🇨🇦" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
 http://5frtv.site:80/play/live.php?mac=00:1A:79:8C:10:A0&stream=699223&extension=ts&play_token=VttOyyI9Be
+
+#EXTINF:-1  tvg-name="VPN OLANDA 🇳🇱" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN OLANDA 🇳🇱 Sc. Dicembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:6F:4F:C4&stream=42722&extension=ts&play_token=HlBoEQZ7I9
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:6F:4F:C4&stream=42737&extension=ts&play_token=50a0wcpipr
+#EXTINF:-1  tvg-name="Sky sport Arena" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky sport Arena
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:6F:4F:C4&stream=91370&extension=ts&play_token=q2nXiBhkx1
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:6F:4F:C4&stream=91372&extension=ts&play_token=M90zU1iFsK
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:6F:4F:C4&stream=217801&extension=ts&play_token=jXS8cmfbrp
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:6F:4F:C4&stream=170765&extension=ts&play_token=bbBCQ9BLF7
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:6F:4F:C4&stream=162665&extension=ts&play_token=sJfe6wD7MY
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:6F:4F:C4&stream=217808&extension=ts&play_token=ZuTSH8cg8G
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:6F:4F:C4&stream=214883&extension=ts&play_token=WsAtkU2RBk
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:6F:4F:C4&stream=217804&extension=ts&play_token=uZthgq7YCM
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:6F:4F:C4&stream=217805&extension=ts&play_token=tGykHq5Uzr
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:6F:4F:C4&stream=217806&extension=ts&play_token=259vyt4YLf
