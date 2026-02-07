@@ -1767,7 +1767,7 @@ http://drk.yasar.tv:80/play/live.php?mac=00:1A:79:6F:4F:C4&stream=217806&extensi
 http://
 
 #EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
-http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:23:2F:F6&stream=42722&extension=ts&play_token=5yIb0wdZB6
+http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:23:2F:F6&stream=216317&extension=ts&play_token=o8OW6OPQgd
 #EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
 http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:23:2F:F6&stream=42737&extension=ts&play_token=jiGZfrNlY7
 #EXTINF:-1  tvg-name="Sky sport Arena" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky sport Arena
