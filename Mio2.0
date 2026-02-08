@@ -1790,3 +1790,47 @@ http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:23:2F:F6&stream=214883&ex
 http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:23:2F:F6&stream=217804&extension=ts&play_token=V9z2mTOCfS
 #EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN GERMANIA 🇩🇪" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
 http://saray68.darktv.nl:80/play/live.php?mac=00:1A:79:23:2F:F6&stream=217806&extension=ts&play_token=MQDnytvTeC
+
+#EXTINF:-1  tvg-name="VPN OLANDA 🇳🇱" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/Y8ti5io.png", VPN OLANDA 🇳🇱 Sc. Dicembre 
+http://
+
+#EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=920093&extension=ts&play_token=PO5SZQx0cw
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=699229&extension=ts&play_token=tjX9LMIJVJ
+#EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=699226&extension=ts&play_token=Zy85Kp92zC
+#EXTINF:-1  tvg-name="Dazn Web 1" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/c1fdMvd.png" , Dazn  Web 1
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=920074&extension=ts&play_token=E9BQXsBLxg
+#EXTINF:-1  tvg-name="Dazn Web 2" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/yBZaQyc.png" , Dazn Web 2
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=920071&extension=ts&play_token=Zowk7uO9nb
+#EXTINF:-1  tvg-name="Dazn Web 3" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/Ot2p4NC.png" , Dazn Web 3
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=920068&extension=ts&play_token=PYiPjJX7i2
+#EXTINF:-1  tvg-name="Dazn Web 4" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/n6um417.png" , Dazn Web 4
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=920065&extension=ts&play_token=OjxknLhhs0
+#EXTINF:-1  tvg-name="Dazn Web 5" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/1VPIi3D.png" , Dazn Web 5
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=920062&extension=ts&play_token=Taxpgjt9lo
+#EXTINF:-1  tvg-name="Sky Sport Uno" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/fsvrCr5.png" , Sky Sport Uno
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=692391&extension=ts&play_token=3g5O8NSm2V
+#EXTINF:-1  tvg-name="Sky sport Arena" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/RpekQri.png" , Sky sport Arena
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=692434&extension=ts&play_token=7ohjmRsZy0
+#EXTINF:-1  tvg-name="Sky Sport Max" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/7YvAVw5.png" , Sky Sport Max
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=692424&extension=ts&play_token=AhlnftSmby
+#EXTINF:-1  tvg-name="Sky Sport MotoGp" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/0Hibuau.png" , Sky Sport MotoGp
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=692421&extension=ts&play_token=8ma7ks5h70
+#EXTINF:-1  tvg-name="Sky Sport F1" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/HvfW2nl.png" , Sky Sport F1
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=692427&extension=ts&play_token=HvVNkZSxxG
+#EXTINF:-1  tvg-name="Sky Sport Calcio" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/aQIBRVz.png" , Sky Sport Calcio 
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=692415&extension=ts&play_token=CwBU6IttLD
+#EXTINF:-1  tvg-name="Sky Sport 1" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/04Wtuzs.png" , Sky Sport 1
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=692412&extension=ts&play_token=n3uMP049yH
+#EXTINF:-1  tvg-name="Sky Sport 2" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/HHTfPLD.png" , Sky Sport 2
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=692409&extension=ts&play_token=RwIdWhxDF2
+#EXTINF:-1  tvg-name="Sky Sport 3" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/jTrKQJ8.png" , Sky Sport 3
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=692406&extension=ts&play_token=XDd8r6AiZ3
+#EXTINF:-1  tvg-name="Sky Sport 4" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/EfZA6hR.png" , Sky Sport 4
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=692403&extension=ts&play_token=DffyzF1zfN
+#EXTINF:-1  tvg-name="Sky Sport 5" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/klzLxqt.png" , Sky Sport 5
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=692400&extension=ts&play_token=JOG0X9a2O1
+#EXTINF:-1  tvg-name="Prime" group-title="VPN OLANDA 🇳🇱" tvg-logo="https://i.imgur.com/QooDZHm.png" , Prime
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:17:0E:07&stream=699223&extension=ts&play_token=E9nOwP7Gsi
