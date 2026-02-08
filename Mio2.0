@@ -986,7 +986,7 @@ http://
 
 #EXTINF:-1  tvg-name="Dazn1 Live" group-title="VPN CANADA 🇨🇦" tvg-logo="https://i.imgur.com/ebeUiLt.png" , Dazn 1 Live
 http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=604050&extension=ts&play_token=X9djALuT38
-#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN CANADA🇨🇦" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
+#EXTINF:-1  tvg-name="Sky Dazn Bar 1" group-title="VPN CANADA 🇨🇦" tvg-logo="https://i.imgur.com/FiqdgO8.png" , Sky Dazn Bar 1
 http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=603941&extension=ts&play_token=h5QdKRyIVd
 #EXTINF:-1  tvg-name="Sky Dazn Bar 2" group-title="VPN CANADA 🇨🇦" tvg-logo="https://i.imgur.com/JeXNYdR.png" , Sky Dazn Bar 2
 http://almaxotv.online:80/play/live.php?mac=00:1A:79:B5:F8:10&stream=603938&extension=ts&play_token=oouEtyavJ0
